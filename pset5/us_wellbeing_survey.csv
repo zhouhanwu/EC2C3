@@ -1,0 +1,1270 @@
+age,depression,anxiety,adhd,sleephrs,female,non_binary,education,mh_conditions,freq_sleep_trouble,physical_activity,employed,marital_status,pain_back_joint
+21,1,0,0,5.0,1,0,"Associate degree",1,"Not at all",0,0,"Single, never married",0
+47,0,1,0,9.0,1,0,"Bachelor's degree",1,"More than half the days",0,0,"Divorced",0
+54,1,1,0,6.0,0,0,"Bachelor's degree",2,"Several days",1,0,"Single, never married",1
+34,0,0,1,7.0,1,0,"Bachelor's degree",1,"More than half the days",0,1,"Single, never married",1
+38,0,0,0,7.0,1,0,"High school diploma or GED",0,"Not at all",1,0,"Married",0
+42,0,0,0,8.0,1,0,"Associate degree",0,"Not at all",1,0,"Single, never married",0
+47,0,0,0,6.0,1,0,"Attended college but did not complete a degree",0,"Not at all",1,0,"Member of an unmarried couple",0
+27,0,0,0,6.0,1,0,"Bachelor's degree",0,"Several days",1,1,"Single, never married",0
+43,1,0,0,8.0,1,0,"High school diploma or GED",1,"Several days",0,0,"Single, never married",1
+37,1,1,0,6.0,1,0,"Did not complete high school",2,"Nearly every day",1,0,"Single, never married",1
+20,1,1,1,8.0,1,0,"Associate degree",3,"Not at all",0,1,"Member of an unmarried couple",1
+29,0,0,0,6.0,0,0,"Did not complete high school",0,"Several days",0,1,"Single, never married",0
+22,1,0,0,10.0,1,0,"High school diploma or GED",1,"Nearly every day",1,0,"Single, never married",1
+33,0,1,0,8.0,0,0,"High school diploma or GED",1,"Nearly every day",0,0,"Single, never married",1
+35,1,1,0,6.0,1,0,"Bachelor's degree",2,"Not at all",1,1,"Widowed",0
+25,0,0,0,8.0,1,0,"Bachelor's degree",0,"Several days",1,1,"Single, never married",0
+29,0,0,0,8.0,1,0,"High school diploma or GED",0,"Not at all",0,1,"Single, never married",0
+21,1,1,1,6.0,1,0,"High school diploma or GED",3,"More than half the days",0,1,"Single, never married",1
+32,1,1,0,5.0,1,0,"High school diploma or GED",2,"Several days",0,0,"Married",1
+44,0,0,0,6.0,1,0,"High school diploma or GED",0,"More than half the days",1,1,"Single, never married",0
+46,0,0,0,8.0,0,0,"High school diploma or GED",0,"Not at all",1,0,"Single, never married",0
+30,1,1,0,6.0,1,0,"Associate degree",2,"Several days",0,1,"Married",1
+22,0,1,0,9.0,1,0,"Attended college but did not complete a degree",1,"Several days",0,0,"Single, never married",1
+63,0,0,0,7.0,1,0,"High school diploma or GED",0,"Several days",0,1,"Married",1
+39,0,1,0,8.0,1,0,"Bachelor's degree",1,"Several days",0,1,"Married",1
+39,0,1,0,8.0,1,0,"High school diploma or GED",1,"More than half the days",0,1,"Single, never married",1
+34,1,1,0,5.0,1,0,"High school diploma or GED",2,"Nearly every day",0,1,"Single, never married",1
+44,1,1,0,5.0,1,0,"Did not complete high school",2,"Nearly every day",1,0,"Single, never married",1
+24,1,1,0,8.0,1,0,"Attended college but did not complete a degree",2,"Not at all",0,0,"Member of an unmarried couple",0
+21,0,1,0,9.0,1,0,"High school diploma or GED",1,"Not at all",1,1,"Single, never married",0
+30,0,0,0,8.0,0,0,"High school diploma or GED",0,"Not at all",1,1,"Single, never married",0
+60,0,1,0,5.0,1,0,"High school diploma or GED",1,"Several days",0,0,"Divorced",1
+22,0,1,0,10.0,1,0,"Associate degree",1,"Nearly every day",0,0,"Single, never married",0
+26,1,1,0,6.0,1,0,"Attended college but did not complete a degree",2,"Nearly every day",0,1,"Single, never married",0
+22,0,1,0,10.0,1,0,"High school diploma or GED",1,"Nearly every day",1,1,"Single, never married",0
+20,0,1,0,8.0,0,0,"High school diploma or GED",1,"Not at all",1,1,"Single, never married",0
+31,0,0,0,8.0,1,0,"Associate degree",0,"Not at all",1,1,"Single, never married",0
+44,0,1,0,6.0,0,0,"Attended college but did not complete a degree",1,"Not at all",0,1,"Divorced",1
+37,0,0,0,7.0,1,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",0,"Not at all",1,0,"Married",1
+22,0,0,0,9.0,1,0,"Associate degree",0,"Not at all",0,1,"Single, never married",1
+23,0,0,0,8.0,0,0,"Attended college but did not complete a degree",0,"Several days",0,1,"Single, never married",1
+25,1,1,0,6.0,1,0,"Attended college but did not complete a degree",2,"Several days",0,0,"Member of an unmarried couple",1
+50,1,1,0,6.0,1,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",2,"Nearly every day",1,1,"Married",1
+47,0,0,0,6.0,1,0,"Associate degree",0,"More than half the days",0,1,"Married",1
+32,1,1,0,5.0,1,0,"High school diploma or GED",2,"Several days",0,0,"Single, never married",0
+41,1,1,1,10.0,1,0,"High school diploma or GED",3,"Nearly every day",1,0,"Married",1
+37,0,0,0,8.0,1,0,"Associate degree",0,"Not at all",1,1,"Married",0
+64,0,0,0,6.0,0,0,"High school diploma or GED",0,"More than half the days",0,0,"Member of an unmarried couple",1
+61,0,0,0,7.0,1,0,"High school diploma or GED",0,"Several days",1,1,"Widowed",1
+24,0,1,0,9.0,0,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",1,"Several days",0,1,"Married",1
+46,0,0,0,6.0,1,0,"Did not complete high school",0,"Not at all",1,0,"Single, never married",0
+49,1,1,0,5.0,0,0,"High school diploma or GED",2,"Several days",0,1,"Member of an unmarried couple",1
+32,1,0,0,8.0,1,0,"Associate degree",1,"Not at all",1,1,"Single, never married",1
+41,1,1,0,10.0,0,0,"Attended college but did not complete a degree",2,"Nearly every day",1,0,"Member of an unmarried couple",1
+58,1,1,0,8.0,1,0,"High school diploma or GED",2,"Not at all",0,0,"Widowed",1
+57,0,1,0,9.0,1,0,"Bachelor's degree",1,"Not at all",0,0,"Single, never married",0
+34,1,1,1,7.0,1,0,"Bachelor's degree",3,"Nearly every day",0,0,"Single, never married",0
+37,0,1,0,5.0,1,0,"High school diploma or GED",1,"More than half the days",1,1,"Married",1
+45,0,0,0,8.0,1,0,"Bachelor's degree",0,"Several days",1,1,"Married",0
+36,0,1,0,7.0,0,0,"High school diploma or GED",1,"More than half the days",1,1,"Single, never married",1
+52,1,1,0,7.0,1,0,"Attended college but did not complete a degree",2,"More than half the days",0,0,"Married",1
+48,0,0,0,8.0,0,0,"Bachelor's degree",0,"Several days",1,0,"Single, never married",1
+25,1,1,0,6.0,1,0,"High school diploma or GED",2,"Several days",1,0,"Single, never married",1
+24,0,1,1,7.0,0,0,"High school diploma or GED",2,"Not at all",0,0,"Single, never married",0
+30,0,0,0,8.0,0,0,"High school diploma or GED",0,"Not at all",1,1,"Single, never married",0
+30,0,0,0,6.0,1,0,"Attended college but did not complete a degree",0,"More than half the days",1,0,"Single, never married",1
+47,1,1,0,5.0,1,0,"Attended college but did not complete a degree",2,"Nearly every day",0,0,"Member of an unmarried couple",1
+25,0,0,0,7.0,0,0,"High school diploma or GED",0,"More than half the days",0,1,"Single, never married",0
+43,0,0,0,8.0,0,0,"High school diploma or GED",0,"Not at all",0,1,"Married",0
+22,1,1,0,6.0,1,0,"Attended college but did not complete a degree",2,"Nearly every day",1,1,"Single, never married",0
+26,0,0,0,6.0,1,0,"High school diploma or GED",0,"Nearly every day",1,0,"Member of an unmarried couple",1
+21,0,1,0,8.0,1,0,"Bachelor's degree",1,"Several days",1,0,"Single, never married",1
+58,0,0,0,8.0,0,0,"Did not complete high school",0,"Several days",1,0,"Single, never married",1
+64,0,0,0,9.0,1,0,"High school diploma or GED",0,"Not at all",1,0,"Married",1
+32,1,1,0,5.0,1,0,"High school diploma or GED",2,"More than half the days",1,0,"Single, never married",1
+36,0,0,0,8.0,0,0,"Associate degree",0,"Not at all",0,1,"Single, never married",0
+44,0,0,0,10.0,1,0,"Did not complete high school",0,"Not at all",1,0,"Member of an unmarried couple",1
+62,0,0,0,6.0,0,0,"Attended college but did not complete a degree",0,"Not at all",1,1,"Married",0
+48,1,1,0,6.0,0,0,"Attended college but did not complete a degree",2,"Several days",1,0,"Single, never married",0
+57,0,0,0,7.0,0,0,"High school diploma or GED",0,"Not at all",1,1,"Married",0
+32,1,1,0,6.0,1,0,"High school diploma or GED",2,"Several days",0,1,"Single, never married",1
+33,0,1,0,8.0,0,0,"High school diploma or GED",1,"Not at all",0,0,"Married",0
+58,0,0,0,5.0,1,0,"High school diploma or GED",0,"Not at all",0,1,"Married",0
+25,1,1,0,7.0,1,0,"Bachelor's degree",2,"More than half the days",1,1,"Married",1
+31,0,0,0,7.0,1,0,"Did not complete high school",0,"Not at all",0,1,"Single, never married",0
+48,0,0,0,8.0,1,0,"Attended college but did not complete a degree",0,"Not at all",1,0,"Single, never married",0
+28,1,0,0,5.0,1,0,"High school diploma or GED",1,"Not at all",1,0,"Married",0
+36,0,0,0,8.0,1,0,"Attended college but did not complete a degree",0,"Several days",1,0,"Single, never married",0
+59,0,0,0,5.0,0,0,"High school diploma or GED",0,"Several days",1,0,"Single, never married",0
+19,1,1,1,8.0,1,0,"High school diploma or GED",3,"Several days",1,0,"Single, never married",1
+48,0,0,0,9.0,1,0,"High school diploma or GED",0,"Not at all",0,0,"Member of an unmarried couple",0
+20,1,1,0,7.0,1,0,"Associate degree",2,"Nearly every day",0,1,"Single, never married",0
+61,1,1,0,7.0,1,0,"High school diploma or GED",2,"Nearly every day",1,1,"Separated",1
+44,0,0,0,5.0,1,0,"Bachelor's degree",0,"Several days",0,1,"Single, never married",1
+23,0,0,0,7.0,1,0,"High school diploma or GED",0,"Not at all",1,1,"Single, never married",0
+25,0,0,0,9.0,1,0,"Associate degree",0,"Not at all",0,1,"Single, never married",1
+53,0,0,0,5.0,1,0,"High school diploma or GED",0,"More than half the days",0,0,"Divorced",1
+23,1,1,1,5.0,0,0,"Associate degree",3,"Nearly every day",0,1,"Single, never married",0
+37,0,1,0,6.0,0,0,"High school diploma or GED",1,"Not at all",0,1,"Married",1
+22,0,0,0,8.0,1,0,"High school diploma or GED",0,"Not at all",0,0,"Single, never married",0
+57,0,0,0,8.0,1,0,"Attended college but did not complete a degree",0,"Not at all",1,1,"Married",0
+18,1,1,1,8.0,1,0,"High school diploma or GED",3,"More than half the days",1,1,"Separated",1
+47,1,1,0,5.0,1,0,"Did not complete high school",2,"Nearly every day",1,0,"Married",1
+62,0,0,0,6.0,1,0,"Attended college but did not complete a degree",0,"Nearly every day",0,0,"Married",1
+37,0,1,0,8.0,0,0,"Attended college but did not complete a degree",1,"Several days",0,1,"Married",0
+25,0,0,0,6.0,0,0,"Attended college but did not complete a degree",0,"Several days",1,1,"Single, never married",0
+35,0,0,0,7.0,1,0,"High school diploma or GED",0,"Not at all",1,1,"Married",0
+23,1,1,0,8.0,1,0,"Attended college but did not complete a degree",2,"More than half the days",0,1,"Single, never married",1
+54,1,1,0,8.0,1,0,"Did not complete high school",2,"Nearly every day",0,0,"Divorced",1
+43,0,1,0,7.0,1,0,"Bachelor's degree",1,"Not at all",1,1,"Married",0
+56,0,0,0,8.0,0,0,"High school diploma or GED",0,"Not at all",1,0,"Single, never married",1
+57,0,0,0,8.0,1,0,"High school diploma or GED",0,"Not at all",1,0,"Single, never married",1
+46,0,0,0,10.0,1,0,"High school diploma or GED",0,"Several days",0,1,"Single, never married",0
+26,0,0,0,8.0,0,0,"Bachelor's degree",0,"Several days",1,1,"Married",0
+56,1,1,1,8.0,1,0,"High school diploma or GED",3,"Nearly every day",0,0,"Married",1
+60,0,1,0,7.0,1,0,"High school diploma or GED",1,"Not at all",1,0,"Married",1
+46,0,0,0,7.0,0,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",0,"Several days",1,1,"Married",1
+35,1,1,0,6.0,1,0,"High school diploma or GED",2,"Nearly every day",1,0,"Married",1
+28,1,1,1,5.0,1,0,"High school diploma or GED",3,"Several days",1,0,"Single, never married",1
+35,1,1,0,5.0,1,0,"High school diploma or GED",2,"Not at all",1,0,"Separated",1
+43,1,1,0,9.0,1,0,"Did not complete high school",2,"More than half the days",0,1,"Married",1
+60,0,0,0,9.0,0,0,"High school diploma or GED",0,"Not at all",1,1,"Single, never married",0
+37,1,1,0,6.0,1,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",2,"Several days",1,0,"Married",1
+20,0,0,1,6.0,1,0,"High school diploma or GED",1,"Several days",1,1,"Single, never married",1
+32,1,1,1,8.0,1,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",3,"Several days",0,1,"Married",1
+31,0,0,0,9.0,0,0,"High school diploma or GED",0,"Not at all",0,1,"Married",0
+46,0,1,0,6.0,0,0,"High school diploma or GED",1,"Several days",0,0,"Single, never married",1
+35,0,0,0,8.0,1,0,"Did not complete high school",0,"Several days",0,1,"Married",1
+20,0,1,0,6.0,1,0,"Attended college but did not complete a degree",1,"Several days",0,1,"Single, never married",0
+36,1,1,0,6.0,1,0,"High school diploma or GED",2,"Several days",0,0,"Single, never married",1
+26,0,0,0,5.0,1,0,"Attended college but did not complete a degree",0,"Nearly every day",1,0,"Single, never married",0
+49,0,0,0,7.0,1,0,"High school diploma or GED",0,"Several days",1,0,"Single, never married",0
+30,1,1,0,5.0,1,0,"Attended college but did not complete a degree",2,"Nearly every day",1,0,"Married",0
+34,0,0,0,7.0,1,0,"High school diploma or GED",0,"Not at all",1,0,"Member of an unmarried couple",0
+37,0,0,0,6.0,0,0,"Attended college but did not complete a degree",0,"Several days",0,0,"Single, never married",1
+49,1,1,0,8.0,1,0,"High school diploma or GED",2,"Nearly every day",0,0,"Married",1
+53,1,1,0,9.0,0,0,"Attended college but did not complete a degree",2,"Several days",1,0,"Married",1
+18,1,1,0,7.0,1,0,"High school diploma or GED",2,"Not at all",1,1,"Single, never married",1
+30,1,1,0,5.0,0,0,"High school diploma or GED",2,"Several days",1,0,"Single, never married",0
+32,1,1,0,6.0,1,0,"Bachelor's degree",2,"Several days",1,1,"Married",1
+32,0,0,0,6.0,1,0,"Bachelor's degree",0,"Not at all",1,0,"Single, never married",1
+28,0,1,0,8.0,1,0,"Attended college but did not complete a degree",1,"Several days",1,0,"Single, never married",1
+25,1,1,0,7.0,1,0,"Did not complete high school",2,"Nearly every day",1,0,"Single, never married",1
+35,1,1,1,7.0,1,0,"Did not complete high school",3,"Several days",0,0,"Married",1
+23,0,0,0,9.0,1,0,"Associate degree",0,"Not at all",0,1,"Member of an unmarried couple",0
+56,0,1,0,6.0,1,0,"Attended college but did not complete a degree",1,"Nearly every day",0,0,"Single, never married",1
+22,1,0,0,5.0,0,0,"High school diploma or GED",1,"Nearly every day",0,0,"Single, never married",0
+32,0,0,0,9.0,0,0,"Associate degree",0,"Not at all",1,1,"Married",0
+31,1,1,0,5.0,1,0,"High school diploma or GED",2,"Nearly every day",1,0,"Single, never married",1
+23,0,0,0,8.0,1,0,"Bachelor's degree",0,"Several days",1,1,"Single, never married",1
+37,0,0,0,7.0,1,0,"Associate degree",0,"Not at all",0,0,"Member of an unmarried couple",0
+35,0,0,0,6.0,1,0,"Associate degree",0,"Not at all",1,1,"Single, never married",0
+35,1,1,1,6.0,1,0,"Bachelor's degree",3,"More than half the days",0,1,"Married",1
+20,1,1,0,7.0,1,0,"Did not complete high school",2,"Nearly every day",1,0,"Single, never married",1
+18,0,1,1,6.0,1,0,"High school diploma or GED",2,"More than half the days",0,1,"Member of an unmarried couple",1
+54,0,1,0,5.0,1,0,"Did not complete high school",1,"Nearly every day",0,1,"Married",1
+42,1,0,1,6.0,1,0,"High school diploma or GED",2,"Not at all",0,1,"Widowed",0
+37,0,0,0,7.0,1,0,"High school diploma or GED",0,"Several days",0,0,"Married",1
+22,0,1,0,9.0,0,0,"High school diploma or GED",1,"Not at all",0,1,"Single, never married",0
+44,0,0,0,6.0,1,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",0,"More than half the days",1,1,"Widowed",1
+32,1,1,1,6.0,1,0,"Bachelor's degree",3,"More than half the days",1,0,"Single, never married",1
+19,0,0,0,8.0,0,0,"High school diploma or GED",0,"More than half the days",0,0,"Single, never married",0
+51,1,0,0,8.0,1,0,"Attended college but did not complete a degree",1,"Several days",1,1,"Married",0
+50,1,1,0,6.0,1,0,"High school diploma or GED",2,"Several days",1,0,"Divorced",0
+25,0,0,0,8.0,1,0,"High school diploma or GED",0,"Nearly every day",1,0,"Single, never married",1
+58,0,0,0,6.0,1,0,"High school diploma or GED",0,"Several days",1,0,"Widowed",1
+59,0,0,0,7.0,1,0,"Associate degree",0,"Not at all",0,1,"Divorced",0
+22,1,0,0,7.0,1,0,"High school diploma or GED",1,"More than half the days",0,1,"Member of an unmarried couple",1
+49,0,0,0,5.0,1,0,"Attended college but did not complete a degree",0,"More than half the days",0,0,"Divorced",1
+30,0,0,0,8.0,1,0,"High school diploma or GED",0,"Not at all",1,1,"Single, never married",0
+21,0,0,0,8.0,0,0,"High school diploma or GED",0,"Not at all",1,1,"Single, never married",1
+64,0,0,0,8.0,1,0,"High school diploma or GED",0,"Not at all",0,0,"Widowed",0
+31,1,1,1,6.0,1,0,"Attended college but did not complete a degree",3,"More than half the days",0,0,"Single, never married",1
+34,0,1,0,8.0,1,0,"Associate degree",1,"Not at all",1,0,"Married",0
+23,1,1,1,8.0,1,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",3,"Several days",0,1,"Single, never married",0
+43,0,0,0,6.0,1,0,"High school diploma or GED",0,"Several days",0,0,"Married",1
+24,0,0,0,8.0,1,0,"Attended college but did not complete a degree",0,"Not at all",1,0,"Single, never married",0
+22,0,1,0,8.0,1,0,"Bachelor's degree",1,"Not at all",1,0,"Single, never married",0
+22,1,1,0,6.0,1,0,"Associate degree",2,"Nearly every day",1,1,"Single, never married",1
+19,0,1,0,8.0,1,0,"Attended college but did not complete a degree",1,"Several days",1,0,"Single, never married",0
+51,0,0,0,10.0,0,0,"Attended college but did not complete a degree",0,"Nearly every day",1,0,"Single, never married",1
+27,0,0,0,5.0,1,0,"Associate degree",0,"Not at all",0,0,"Single, never married",0
+37,1,1,0,6.0,1,0,"Associate degree",2,"More than half the days",1,0,"Married",1
+44,0,0,0,7.0,0,0,"High school diploma or GED",0,"Several days",0,0,"Single, never married",0
+34,1,1,0,6.0,1,0,"High school diploma or GED",2,"More than half the days",1,1,"Single, never married",1
+22,1,1,1,11.0,1,0,"High school diploma or GED",3,"More than half the days",1,1,"Member of an unmarried couple",1
+37,0,0,0,10.0,0,0,"Associate degree",0,"Not at all",1,1,"Married",1
+64,0,0,0,8.0,1,0,"High school diploma or GED",0,"Several days",0,1,"Single, never married",1
+24,1,1,0,6.0,1,0,"Bachelor's degree",2,"Several days",1,0,"Single, never married",1
+41,1,1,0,8.0,1,0,"High school diploma or GED",2,"Several days",0,0,"Divorced",1
+20,1,1,0,8.0,0,0,"High school diploma or GED",2,"Not at all",1,0,"Single, never married",0
+22,1,0,1,5.0,0,0,"High school diploma or GED",2,"Several days",1,1,"Member of an unmarried couple",0
+53,1,1,0,9.0,1,0,"High school diploma or GED",2,"More than half the days",0,0,"Divorced",0
+21,0,1,0,8.0,1,0,"Bachelor's degree",1,"Nearly every day",1,1,"Single, never married",0
+26,1,1,0,7.0,0,0,"Associate degree",2,"More than half the days",1,1,"Single, never married",1
+23,0,1,0,7.0,1,0,"High school diploma or GED",1,"More than half the days",0,0,"Single, never married",0
+39,0,0,0,6.0,1,0,"High school diploma or GED",0,"More than half the days",0,1,"Member of an unmarried couple",1
+62,0,0,1,5.0,1,0,"High school diploma or GED",1,"Not at all",0,0,"Widowed",1
+21,0,0,0,7.0,1,0,"High school diploma or GED",0,"More than half the days",0,0,"Single, never married",1
+33,1,1,0,6.0,1,0,"High school diploma or GED",2,"Nearly every day",0,0,"Single, never married",1
+19,1,1,0,6.0,1,0,"Attended college but did not complete a degree",2,"Nearly every day",1,0,"Single, never married",1
+34,1,1,0,10.0,0,0,"High school diploma or GED",2,"More than half the days",0,0,"Single, never married",1
+51,1,0,0,6.0,1,0,"Bachelor's degree",1,"Nearly every day",1,1,"Divorced",1
+23,1,1,1,6.0,1,0,"High school diploma or GED",3,"More than half the days",0,1,"Married",1
+48,0,0,0,10.0,0,0,"High school diploma or GED",0,"Several days",0,1,"Separated",1
+24,0,1,0,6.0,0,0,"High school diploma or GED",1,"More than half the days",0,0,"Single, never married",1
+21,0,0,0,7.0,1,0,"High school diploma or GED",0,"Nearly every day",1,1,"Single, never married",0
+48,0,0,0,5.0,0,0,"Bachelor's degree",0,"More than half the days",0,0,"Single, never married",1
+25,0,1,0,8.0,1,0,"Associate degree",1,"Nearly every day",1,0,"Single, never married",1
+23,1,1,0,6.0,1,0,"Associate degree",2,"Nearly every day",0,1,"Single, never married",1
+26,0,0,1,5.0,1,0,"Attended college but did not complete a degree",1,"Several days",1,0,"Member of an unmarried couple",1
+19,1,1,1,5.0,1,0,"High school diploma or GED",3,"Several days",0,0,"Single, never married",1
+49,1,1,1,7.0,0,1,"Bachelor's degree",3,"Several days",0,0,"Single, never married",1
+39,0,1,0,8.0,1,0,"Did not complete high school",1,"Several days",0,0,"Married",1
+48,0,0,0,7.0,1,0,"Associate degree",0,"Not at all",1,1,"Divorced",0
+23,0,0,0,7.0,1,0,"Attended college but did not complete a degree",0,"Several days",1,1,"Member of an unmarried couple",0
+19,1,1,1,5.0,1,0,"High school diploma or GED",3,"More than half the days",1,1,"Single, never married",1
+54,0,0,0,6.0,1,0,"Associate degree",0,"Several days",1,1,"Married",1
+24,1,1,0,8.0,1,0,"High school diploma or GED",2,"Nearly every day",1,1,"Single, never married",1
+39,1,1,0,5.0,1,0,"Attended college but did not complete a degree",2,"Several days",0,1,"Single, never married",0
+24,1,1,1,6.0,1,0,"Bachelor's degree",3,"Nearly every day",0,1,"Single, never married",1
+34,0,0,0,10.0,1,0,"Did not complete high school",0,"Several days",0,1,"Married",1
+29,1,1,0,7.0,0,0,"Did not complete high school",2,"Several days",0,0,"Separated",0
+22,0,0,1,6.0,1,0,"High school diploma or GED",1,"More than half the days",0,0,"Single, never married",0
+24,0,1,0,6.0,0,0,"Attended college but did not complete a degree",1,"More than half the days",0,0,"Single, never married",0
+40,0,0,0,5.0,1,0,"Attended college but did not complete a degree",0,"Several days",0,1,"Member of an unmarried couple",1
+24,1,1,0,6.0,1,0,"Bachelor's degree",2,"Not at all",0,1,"Single, never married",0
+30,0,0,0,9.0,0,0,"Associate degree",0,"Several days",0,0,"Single, never married",0
+33,1,0,0,7.0,1,0,"Attended college but did not complete a degree",1,"Several days",0,0,"Divorced",0
+48,0,0,0,6.0,0,0,"Attended college but did not complete a degree",0,"Several days",1,1,"Single, never married",1
+49,0,1,0,8.0,1,0,"Bachelor's degree",1,"Several days",0,0,"Single, never married",0
+59,0,0,0,8.0,1,0,"Bachelor's degree",0,"Not at all",0,0,"Married",1
+43,0,0,0,5.0,1,0,"Bachelor's degree",0,"Not at all",1,1,"Single, never married",0
+29,0,0,0,5.0,0,0,"Associate degree",0,"More than half the days",0,0,"Single, never married",1
+44,0,0,0,8.0,1,0,"Bachelor's degree",0,"Several days",0,0,"Single, never married",0
+40,0,1,0,5.0,0,0,"High school diploma or GED",1,"More than half the days",0,1,"Single, never married",0
+36,1,1,1,6.0,1,0,"High school diploma or GED",3,"Nearly every day",0,0,"Member of an unmarried couple",1
+61,0,0,0,6.0,1,0,"Associate degree",0,"Not at all",1,0,"Divorced",0
+58,1,1,0,7.0,1,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",2,"Not at all",1,0,"Married",1
+39,0,0,0,6.0,1,0,"Attended college but did not complete a degree",0,"Several days",0,1,"Single, never married",0
+57,0,0,0,6.0,1,0,"High school diploma or GED",0,"More than half the days",1,1,"Married",1
+40,0,0,0,6.0,0,0,"High school diploma or GED",0,"Several days",0,0,"Married",0
+38,0,0,0,6.0,1,0,"High school diploma or GED",0,"Not at all",1,1,"Married",0
+36,1,1,1,6.0,0,0,"High school diploma or GED",3,"Several days",0,0,"Single, never married",0
+30,0,0,0,5.0,1,0,"Associate degree",0,"Not at all",0,1,"Married",0
+32,0,1,0,6.0,1,0,"Associate degree",1,"Not at all",1,1,"Single, never married",1
+20,0,1,0,10.0,1,0,"High school diploma or GED",1,"Not at all",1,1,"Single, never married",0
+31,0,1,1,8.0,1,0,"High school diploma or GED",2,"Several days",0,1,"Married",0
+19,1,1,0,8.0,1,0,"High school diploma or GED",2,"Several days",1,0,"Single, never married",1
+51,1,1,0,6.0,1,0,"Associate degree",2,"More than half the days",0,1,"Single, never married",0
+57,1,1,0,6.0,1,0,"High school diploma or GED",2,"Several days",0,0,"Divorced",1
+61,0,0,0,8.0,1,0,"Attended college but did not complete a degree",0,"Not at all",1,0,"Separated",0
+31,0,0,0,7.0,0,0,"Bachelor's degree",0,"Several days",1,1,"Married",0
+20,0,0,0,8.0,0,0,"Attended college but did not complete a degree",0,"Not at all",0,1,"Single, never married",1
+20,1,1,0,8.0,0,0,"High school diploma or GED",2,"Nearly every day",0,0,"Single, never married",0
+40,0,0,0,7.0,0,0,"High school diploma or GED",0,"Not at all",0,1,"Married",0
+27,0,0,0,8.0,0,0,"High school diploma or GED",0,"Not at all",1,1,"Member of an unmarried couple",1
+57,0,0,0,5.0,0,0,"Attended college but did not complete a degree",0,"Several days",0,1,"Divorced",0
+45,1,1,0,7.0,0,0,"High school diploma or GED",2,"Not at all",1,1,"Member of an unmarried couple",1
+36,1,0,0,5.0,1,0,"Bachelor's degree",1,"Nearly every day",1,1,"Married",0
+20,0,0,0,8.0,1,0,"High school diploma or GED",0,"Not at all",1,1,"Single, never married",0
+43,0,0,0,6.0,0,0,"Did not complete high school",0,"Not at all",1,1,"Married",0
+46,0,0,0,7.0,0,0,"High school diploma or GED",0,"Several days",1,0,"Divorced",1
+55,0,0,0,6.0,0,0,"Attended college but did not complete a degree",0,"Not at all",0,0,"Single, never married",0
+18,0,0,0,7.0,0,0,"Attended college but did not complete a degree",0,"Not at all",1,1,"Single, never married",0
+45,0,0,0,5.0,0,0,"High school diploma or GED",0,"Several days",1,1,"Single, never married",1
+29,0,0,0,6.0,0,0,"Bachelor's degree",0,"Several days",0,1,"Single, never married",0
+25,1,1,0,8.0,0,0,"Attended college but did not complete a degree",2,"More than half the days",1,0,"Single, never married",1
+37,0,0,0,7.0,0,0,"Bachelor's degree",0,"Several days",1,0,"Married",1
+37,1,1,1,6.0,0,0,"Attended college but did not complete a degree",3,"Not at all",1,0,"Single, never married",1
+20,0,0,0,10.0,1,0,"Attended college but did not complete a degree",0,"Nearly every day",1,1,"Member of an unmarried couple",1
+29,1,1,0,6.0,0,0,"High school diploma or GED",2,"Several days",0,1,"Single, never married",1
+52,0,0,0,7.0,0,0,"Associate degree",0,"More than half the days",1,0,"Divorced",0
+64,0,0,0,9.0,0,0,"Attended college but did not complete a degree",0,"Not at all",1,0,"Widowed",1
+32,1,1,1,8.0,0,0,"Bachelor's degree",3,"Several days",1,1,"Member of an unmarried couple",1
+40,0,0,0,7.0,0,0,"High school diploma or GED",0,"Several days",0,1,"Married",0
+18,0,0,0,10.0,0,0,"High school diploma or GED",0,"Not at all",1,1,"Single, never married",0
+26,1,1,0,10.0,0,0,"High school diploma or GED",2,"Nearly every day",0,0,"Married",1
+35,0,0,0,7.0,0,0,"Bachelor's degree",0,"Several days",1,1,"Married",0
+34,1,1,0,7.0,0,0,"High school diploma or GED",2,"Several days",0,1,"Single, never married",1
+35,0,0,0,8.0,0,0,"High school diploma or GED",0,"Not at all",0,1,"Divorced",0
+25,0,0,0,7.0,0,0,"Associate degree",0,"Several days",1,1,"Married",0
+39,0,0,0,6.0,0,0,"Attended college but did not complete a degree",0,"Not at all",0,1,"Married",1
+57,0,0,0,8.0,0,0,"High school diploma or GED",0,"Not at all",0,0,"Single, never married",1
+24,0,0,0,7.0,0,0,"Bachelor's degree",0,"Several days",1,0,"Single, never married",0
+20,0,1,0,8.0,0,0,"High school diploma or GED",1,"Not at all",0,0,"Single, never married",0
+38,0,0,0,7.0,0,0,"Bachelor's degree",0,"Not at all",1,1,"Single, never married",0
+18,0,0,0,10.0,0,0,"High school diploma or GED",0,"Not at all",0,1,"Single, never married",0
+37,0,0,0,9.0,0,0,"Bachelor's degree",0,"Not at all",0,1,"Married",1
+36,1,0,0,6.0,0,0,"High school diploma or GED",1,"Not at all",0,1,"Married",1
+24,1,1,1,7.0,0,0,"High school diploma or GED",3,"More than half the days",1,1,"Single, never married",1
+36,1,0,1,7.0,0,0,"High school diploma or GED",2,"Not at all",0,1,"Member of an unmarried couple",1
+25,0,0,0,6.0,0,0,"Attended college but did not complete a degree",0,"Nearly every day",0,1,"Married",0
+35,0,0,0,5.0,0,0,"Attended college but did not complete a degree",0,"Not at all",1,1,"Single, never married",0
+31,0,1,0,5.0,0,0,"High school diploma or GED",1,"Several days",0,1,"Single, never married",1
+36,0,0,1,7.0,0,0,"High school diploma or GED",1,"Not at all",1,0,"Married",0
+46,1,1,0,6.0,0,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",2,"Nearly every day",0,0,"Married",0
+39,0,0,0,8.0,0,0,"Attended college but did not complete a degree",0,"Not at all",1,1,"Member of an unmarried couple",0
+23,1,1,0,7.0,0,0,"Bachelor's degree",2,"Several days",1,1,"Single, never married",1
+20,0,0,0,9.0,0,0,"Did not complete high school",0,"Not at all",0,0,"Single, never married",0
+42,0,0,0,8.0,0,0,"Attended college but did not complete a degree",0,"Not at all",1,0,"Single, never married",0
+44,1,1,0,5.0,0,0,"Attended college but did not complete a degree",2,"Nearly every day",0,0,"Married",1
+30,0,1,0,5.0,0,0,"High school diploma or GED",1,"Nearly every day",1,1,"Member of an unmarried couple",1
+30,0,0,0,10.0,0,0,"High school diploma or GED",0,"Several days",0,1,"Single, never married",1
+60,1,1,0,5.0,0,0,"High school diploma or GED",2,"More than half the days",1,0,"Divorced",1
+32,0,1,0,8.0,0,0,"High school diploma or GED",1,"More than half the days",1,1,"Married",0
+21,0,0,0,8.0,0,0,"High school diploma or GED",0,"Not at all",0,1,"Single, never married",0
+29,0,0,0,9.0,0,0,"Attended college but did not complete a degree",0,"Not at all",0,1,"Single, never married",0
+36,0,0,0,6.0,0,0,"Attended college but did not complete a degree",0,"More than half the days",0,0,"Single, never married",1
+37,1,1,0,6.0,0,0,"Attended college but did not complete a degree",2,"Several days",1,1,"Single, never married",0
+40,0,0,0,7.0,0,0,"Bachelor's degree",0,"Several days",0,0,"Single, never married",1
+22,0,1,0,6.0,0,0,"High school diploma or GED",1,"More than half the days",0,1,"Single, never married",0
+43,0,0,0,6.0,0,0,"Associate degree",0,"Several days",1,1,"Single, never married",1
+47,1,1,0,6.0,0,0,"Bachelor's degree",2,"Several days",1,0,"Single, never married",1
+43,0,1,0,7.0,0,0,"Did not complete high school",1,"Several days",1,1,"Single, never married",1
+25,1,1,1,10.0,1,0,"High school diploma or GED",3,"Not at all",1,0,"Single, never married",0
+29,0,0,0,8.0,0,0,"High school diploma or GED",0,"More than half the days",0,1,"Member of an unmarried couple",0
+53,1,0,0,7.0,0,0,"High school diploma or GED",1,"Not at all",1,1,"Divorced",0
+39,1,1,1,8.0,0,0,"Bachelor's degree",3,"More than half the days",0,0,"Single, never married",1
+33,1,1,1,7.0,0,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",3,"More than half the days",1,1,"Single, never married",0
+51,0,0,0,8.0,0,0,"High school diploma or GED",0,"Several days",0,1,"Divorced",1
+32,0,0,0,6.0,0,0,"High school diploma or GED",0,"Not at all",1,1,"Married",0
+41,0,0,0,6.0,0,0,"High school diploma or GED",0,"Nearly every day",1,1,"Single, never married",1
+30,1,1,0,6.0,0,0,"High school diploma or GED",2,"Not at all",1,1,"Married",1
+22,0,1,1,9.0,0,0,"High school diploma or GED",2,"Nearly every day",0,0,"Single, never married",0
+57,0,1,1,6.5,0,0,"Attended college but did not complete a degree",2,"More than half the days",0,0,"Single, never married",1
+34,0,0,0,8.0,0,0,"High school diploma or GED",0,"Not at all",0,1,"Single, never married",0
+23,0,0,0,6.0,0,0,"Bachelor's degree",0,"More than half the days",0,1,"Member of an unmarried couple",0
+19,0,0,0,8.0,0,0,"Associate degree",0,"Not at all",1,1,"Married",0
+21,0,1,0,8.0,0,0,"High school diploma or GED",1,"More than half the days",0,1,"Member of an unmarried couple",1
+28,1,1,0,8.0,0,0,"Attended college but did not complete a degree",2,"Several days",0,0,"Single, never married",1
+36,1,1,1,5.0,0,0,"High school diploma or GED",3,"Several days",0,0,"Single, never married",1
+28,1,1,0,6.0,0,0,"High school diploma or GED",2,"Several days",1,1,"Single, never married",1
+30,1,1,1,5.0,0,0,"Attended college but did not complete a degree",3,"More than half the days",1,1,"Single, never married",1
+22,1,1,0,7.0,0,0,"Associate degree",2,"Nearly every day",0,1,"Married",0
+55,0,0,0,8.0,0,0,"High school diploma or GED",0,"Not at all",1,1,"Single, never married",0
+40,0,0,0,7.0,0,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",0,"Not at all",1,1,"Married",0
+53,1,1,1,7.0,0,0,"High school diploma or GED",3,"Nearly every day",0,0,"Member of an unmarried couple",0
+38,0,0,0,7.0,0,0,"High school diploma or GED",0,"Not at all",0,1,"Married",0
+62,0,0,0,6.0,0,0,"Associate degree",0,"Several days",0,0,"Divorced",0
+41,0,0,0,10.0,0,0,"Attended college but did not complete a degree",0,"Not at all",1,1,"Married",0
+44,0,0,0,8.0,0,1,"Associate degree",0,"Several days",0,1,"Member of an unmarried couple",0
+43,1,1,0,8.0,0,0,"High school diploma or GED",2,"Several days",1,1,"Single, never married",0
+29,0,0,0,7.0,0,0,"Attended college but did not complete a degree",0,"Not at all",0,1,"Single, never married",0
+34,0,0,0,8.0,0,0,"High school diploma or GED",0,"Not at all",1,0,"Married",0
+58,1,1,0,6.0,0,0,"Attended college but did not complete a degree",2,"Several days",1,0,"Divorced",1
+50,0,1,1,9.0,0,0,"Attended college but did not complete a degree",2,"More than half the days",0,0,"Single, never married",0
+29,0,0,0,6.0,0,0,"Bachelor's degree",0,"Not at all",0,1,"Single, never married",0
+60,0,0,0,6.0,0,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",0,"Several days",1,1,"Member of an unmarried couple",1
+37,0,0,0,8.0,0,0,"High school diploma or GED",0,"Not at all",1,0,"Married",0
+60,1,1,0,6.0,0,0,"Did not complete high school",2,"Not at all",0,0,"Married",1
+34,0,0,0,7.0,0,0,"High school diploma or GED",0,"Not at all",1,1,"Married",0
+54,1,1,1,10.0,1,0,"Did not complete high school",3,"Several days",1,1,"Single, never married",1
+61,0,0,0,6.0,0,0,"High school diploma or GED",0,"Several days",1,0,"Married",0
+40,0,0,0,8.0,0,0,"High school diploma or GED",0,"More than half the days",1,1,"Married",0
+63,0,0,0,6.0,0,0,"Bachelor's degree",0,"Several days",1,0,"Single, never married",1
+24,1,1,0,5.0,0,0,"High school diploma or GED",2,"Not at all",0,1,"Single, never married",1
+33,0,0,0,6.0,0,0,"High school diploma or GED",0,"More than half the days",0,1,"Single, never married",0
+46,0,0,1,7.0,0,0,"Associate degree",1,"Not at all",1,1,"Married",0
+23,0,0,0,8.0,0,0,"Attended college but did not complete a degree",0,"More than half the days",0,1,"Single, never married",1
+37,1,1,0,7.0,1,0,"Attended college but did not complete a degree",2,"Several days",1,1,"Married",1
+59,0,0,0,7.0,0,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",0,"Not at all",1,1,"Married",0
+22,1,1,1,10.0,1,0,"Did not complete high school",3,"Not at all",1,1,"Single, never married",1
+43,1,1,1,6.0,0,0,"Attended college but did not complete a degree",3,"More than half the days",1,0,"Single, never married",0
+24,1,1,1,8.0,0,0,"Bachelor's degree",3,"More than half the days",1,1,"Member of an unmarried couple",1
+45,1,0,1,6.0,0,0,"High school diploma or GED",2,"Several days",1,0,"Married",0
+21,0,0,0,8.0,0,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",0,"Not at all",1,1,"Married",0
+18,0,0,0,7.0,1,0,"High school diploma or GED",0,"More than half the days",1,0,"Single, never married",1
+42,0,0,0,9.0,0,0,"High school diploma or GED",0,"More than half the days",1,1,"Single, never married",0
+34,1,1,0,5.0,1,0,"High school diploma or GED",2,"Not at all",1,0,"Member of an unmarried couple",0
+37,0,0,0,6.0,0,0,"Bachelor's degree",0,"Not at all",1,1,"Married",1
+18,1,1,0,6.0,1,0,"High school diploma or GED",2,"Nearly every day",0,0,"Single, never married",1
+30,0,0,0,6.0,0,0,"Did not complete high school",0,"Not at all",1,0,"Married",1
+42,0,1,0,8.0,1,0,"Did not complete high school",1,"Several days",1,0,"Divorced",0
+64,0,0,0,7.0,0,0,"High school diploma or GED",0,"Several days",0,0,"Married",1
+19,1,1,0,6.0,0,0,"High school diploma or GED",2,"Several days",1,1,"Married",1
+23,0,1,0,7.0,0,0,"Did not complete high school",1,"More than half the days",0,0,"Member of an unmarried couple",0
+59,0,0,0,10.0,0,0,"High school diploma or GED",0,"Several days",1,0,"Divorced",1
+53,1,1,1,8.0,0,0,"High school diploma or GED",3,"Several days",0,1,"Member of an unmarried couple",1
+30,1,0,0,5.0,1,0,"Did not complete high school",1,"Nearly every day",1,0,"Married",1
+21,0,0,0,8.0,1,0,"High school diploma or GED",0,"Not at all",0,0,"Member of an unmarried couple",1
+23,1,1,1,10.0,0,0,"Bachelor's degree",3,"Nearly every day",1,1,"Married",1
+58,1,1,0,6.0,1,0,"Did not complete high school",2,"Nearly every day",0,1,"Widowed",1
+39,0,1,0,7.0,0,0,"Associate degree",1,"Several days",0,0,"Single, never married",0
+44,1,1,0,8.0,0,0,"Did not complete high school",2,"Several days",0,1,"Single, never married",1
+39,1,1,0,6.0,1,0,"High school diploma or GED",2,"Several days",0,1,"Married",1
+40,1,1,0,7.0,0,0,"High school diploma or GED",2,"Not at all",0,1,"Single, never married",0
+56,1,1,0,6.0,0,0,"High school diploma or GED",2,"Several days",0,0,"Divorced",1
+57,0,0,0,9.0,0,0,"Associate degree",0,"Not at all",0,0,"Single, never married",0
+58,1,1,0,5.0,0,0,"High school diploma or GED",2,"More than half the days",0,0,"Divorced",0
+26,1,1,0,6.0,1,0,"Did not complete high school",2,"More than half the days",1,0,"Member of an unmarried couple",1
+24,0,0,0,9.0,0,0,"High school diploma or GED",0,"Several days",1,0,"Separated",0
+35,1,1,0,8.0,0,0,"Attended college but did not complete a degree",2,"Not at all",0,0,"Married",1
+42,0,0,1,9.0,0,0,"High school diploma or GED",1,"Not at all",1,1,"Divorced",0
+54,0,0,0,6.0,0,0,"Did not complete high school",0,"Several days",1,1,"Single, never married",1
+28,1,1,0,5.0,0,0,"High school diploma or GED",2,"Nearly every day",1,1,"Separated",1
+52,0,0,0,7.0,0,0,"Did not complete high school",0,"Not at all",1,0,"Single, never married",0
+26,1,1,0,7.0,0,0,"Attended college but did not complete a degree",2,"Not at all",1,0,"Single, never married",0
+41,0,0,0,5.0,1,0,"High school diploma or GED",0,"More than half the days",1,1,"Married",1
+31,1,1,0,5.0,0,0,"Attended college but did not complete a degree",2,"More than half the days",1,1,"Single, never married",1
+49,1,1,0,7.0,1,0,"Did not complete high school",2,"More than half the days",0,0,"Member of an unmarried couple",1
+35,0,0,0,6.0,0,0,"High school diploma or GED",0,"More than half the days",0,0,"Separated",0
+51,0,1,0,7.0,0,0,"High school diploma or GED",1,"Nearly every day",1,1,"Married",1
+37,0,0,0,8.0,1,0,"Did not complete high school",0,"Not at all",1,0,"Member of an unmarried couple",1
+47,1,1,0,7.0,0,0,"High school diploma or GED",2,"Not at all",0,0,"Single, never married",1
+31,1,1,1,5.0,1,0,"Did not complete high school",3,"Nearly every day",0,0,"Single, never married",1
+42,0,1,0,6.0,0,0,"High school diploma or GED",1,"More than half the days",1,1,"Divorced",1
+33,0,0,0,6.0,0,0,"High school diploma or GED",0,"Not at all",0,1,"Single, never married",0
+56,1,1,1,8.0,1,0,"Did not complete high school",3,"More than half the days",0,0,"Widowed",1
+18,1,1,0,8.0,1,0,"High school diploma or GED",2,"Not at all",1,1,"Single, never married",1
+42,1,1,1,10.0,0,0,"Attended college but did not complete a degree",3,"More than half the days",0,1,"Single, never married",1
+34,0,0,0,8.0,0,0,"Did not complete high school",0,"More than half the days",0,0,"Single, never married",1
+63,1,1,0,6.0,0,0,"High school diploma or GED",2,"Several days",0,1,"Divorced",1
+57,0,0,0,8.0,0,0,"Did not complete high school",0,"Not at all",1,0,"Married",1
+34,0,0,1,5.0,0,0,"Attended college but did not complete a degree",1,"More than half the days",0,0,"Single, never married",1
+40,1,1,1,6.0,0,0,"Attended college but did not complete a degree",3,"Nearly every day",0,1,"Married",1
+59,1,1,0,7.0,1,0,"High school diploma or GED",2,"Several days",0,0,"Divorced",1
+53,1,1,0,7.0,0,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",2,"Several days",0,0,"Separated",1
+22,0,0,0,6.0,0,0,"Attended college but did not complete a degree",0,"Several days",1,1,"Single, never married",0
+20,1,0,1,8.0,1,0,"Attended college but did not complete a degree",2,"Several days",1,1,"Single, never married",0
+25,1,1,1,5.0,0,0,"Attended college but did not complete a degree",3,"Nearly every day",1,1,"Member of an unmarried couple",1
+21,1,1,0,10.0,0,0,"Associate degree",2,"Several days",0,0,"Single, never married",0
+48,1,1,1,8.0,0,0,"High school diploma or GED",3,"Not at all",1,0,"Single, never married",1
+37,1,1,1,6.0,0,0,"High school diploma or GED",3,"Nearly every day",1,0,"Separated",1
+32,0,0,0,6.0,0,0,"High school diploma or GED",0,"Several days",0,1,"Single, never married",1
+42,0,0,0,6.0,0,0,"High school diploma or GED",0,"Not at all",1,1,"Married",0
+18,1,1,0,5.0,1,0,"High school diploma or GED",2,"More than half the days",1,0,"Single, never married",1
+37,1,1,1,8.0,0,0,"High school diploma or GED",3,"Several days",1,1,"Member of an unmarried couple",1
+57,0,1,0,9.0,1,0,"High school diploma or GED",1,"Not at all",1,0,"Married",1
+46,1,1,1,5.0,0,0,"Did not complete high school",3,"Several days",0,0,"Married",1
+35,1,1,1,5.0,0,0,"High school diploma or GED",3,"Nearly every day",1,0,"Single, never married",1
+37,1,1,0,6.0,0,0,"High school diploma or GED",2,"Several days",1,0,"Single, never married",1
+40,0,0,1,8.0,0,0,"High school diploma or GED",1,"Several days",1,1,"Single, never married",0
+27,0,0,0,6.0,1,0,"Did not complete high school",0,"Not at all",0,0,"Single, never married",0
+53,0,0,0,8.0,0,0,"High school diploma or GED",0,"Several days",0,1,"Married",1
+64,0,0,0,8.0,0,0,"High school diploma or GED",0,"Not at all",1,1,"Married",0
+37,1,1,0,6.0,0,0,"High school diploma or GED",2,"More than half the days",1,1,"Single, never married",0
+38,0,0,0,6.0,1,0,"Did not complete high school",0,"Not at all",1,0,"Separated",0
+33,0,0,0,7.0,0,0,"Associate degree",0,"Not at all",0,1,"Single, never married",1
+46,1,1,0,6.0,0,0,"High school diploma or GED",2,"Several days",1,1,"Divorced",1
+64,0,0,0,8.0,0,0,"Attended college but did not complete a degree",0,"Nearly every day",0,0,"Separated",1
+30,1,1,1,7.0,1,0,"Did not complete high school",3,"Not at all",0,0,"Member of an unmarried couple",0
+25,1,1,0,6.0,1,0,"High school diploma or GED",2,"More than half the days",1,1,"Married",1
+21,1,1,1,9.0,1,0,"Did not complete high school",3,"Several days",1,1,"Single, never married",1
+25,1,1,0,6.0,1,0,"Did not complete high school",2,"More than half the days",1,1,"Single, never married",0
+27,1,1,1,5.0,0,0,"Attended college but did not complete a degree",3,"Several days",1,1,"Single, never married",1
+22,1,1,0,6.0,0,0,"Did not complete high school",2,"Nearly every day",1,0,"Single, never married",0
+37,1,1,0,5.0,1,0,"Did not complete high school",2,"More than half the days",1,0,"Separated",1
+36,1,1,1,8.0,1,0,"Did not complete high school",3,"Not at all",1,1,"Divorced",0
+42,0,1,0,7.0,1,0,"Did not complete high school",1,"Several days",1,1,"Married",1
+23,0,0,0,7.0,1,0,"Associate degree",0,"Not at all",1,0,"Member of an unmarried couple",0
+24,1,1,0,6.0,1,0,"Did not complete high school",2,"Several days",1,1,"Member of an unmarried couple",1
+18,1,1,1,8.0,0,0,"Did not complete high school",3,"Not at all",0,0,"Single, never married",1
+23,1,1,1,6.0,0,0,"Did not complete high school",3,"More than half the days",0,0,"Single, never married",0
+48,0,0,0,6.0,0,0,"Did not complete high school",0,"Not at all",1,1,"Separated",1
+37,1,1,0,5.0,0,0,"Did not complete high school",2,"Nearly every day",0,0,"Single, never married",1
+18,1,1,1,8.0,1,0,"Did not complete high school",3,"Not at all",0,0,"Single, never married",1
+21,0,1,0,8.0,1,0,"Did not complete high school",1,"More than half the days",0,0,"Married",0
+23,1,1,1,6.0,1,0,"Did not complete high school",3,"More than half the days",1,1,"Member of an unmarried couple",1
+25,0,1,1,5.0,1,0,"Did not complete high school",2,"Nearly every day",1,1,"Single, never married",1
+36,0,0,0,10.0,0,0,"Bachelor's degree",0,"Not at all",1,1,"Married",1
+48,0,0,0,5.0,1,0,"Did not complete high school",0,"Nearly every day",0,0,"Member of an unmarried couple",1
+30,0,0,1,6.0,0,0,"Did not complete high school",1,"Not at all",1,1,"Single, never married",1
+58,0,0,0,6.0,0,0,"Did not complete high school",0,"Several days",1,0,"Single, never married",1
+26,1,1,0,5.0,1,0,"Did not complete high school",2,"Several days",0,1,"Single, never married",1
+26,0,0,0,10.0,0,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",0,"Several days",1,1,"Single, never married",0
+55,1,1,0,7.0,1,0,"Did not complete high school",2,"Several days",0,0,"Separated",1
+40,1,1,0,8.0,1,0,"Did not complete high school",2,"More than half the days",1,0,"Married",1
+39,1,1,1,6.0,0,0,"Did not complete high school",3,"More than half the days",1,0,"Single, never married",1
+41,1,1,0,5.0,0,0,"Associate degree",2,"Nearly every day",1,0,"Single, never married",1
+36,0,0,0,6.0,0,0,"Attended college but did not complete a degree",0,"Several days",0,1,"Single, never married",0
+22,0,1,0,6.0,1,0,"High school diploma or GED",1,"Nearly every day",0,0,"Member of an unmarried couple",1
+25,0,1,1,8.0,0,0,"High school diploma or GED",2,"Several days",1,1,"Single, never married",0
+33,0,0,0,7.0,1,0,"High school diploma or GED",0,"Several days",0,0,"Married",0
+34,0,0,0,8.0,1,0,"High school diploma or GED",0,"Not at all",0,1,"Married",0
+45,0,1,0,6.0,0,0,"Bachelor's degree",1,"Several days",0,0,"Divorced",1
+26,1,1,0,9.0,1,0,"Bachelor's degree",2,"More than half the days",1,1,"Single, never married",1
+25,1,0,0,8.0,0,0,"High school diploma or GED",1,"More than half the days",1,1,"Married",1
+32,0,0,0,6.0,0,0,"Attended college but did not complete a degree",0,"More than half the days",1,1,"Single, never married",0
+58,0,0,0,7.0,1,0,"Associate degree",0,"Not at all",0,1,"Divorced",0
+52,0,1,0,6.0,1,0,"Associate degree",1,"Several days",1,1,"Married",1
+21,1,1,0,5.0,1,0,"Bachelor's degree",2,"Several days",0,1,"Single, never married",1
+30,1,1,1,10.0,0,0,"High school diploma or GED",3,"More than half the days",1,0,"Member of an unmarried couple",1
+37,0,0,0,6.0,1,0,"Attended college but did not complete a degree",0,"Not at all",1,1,"Member of an unmarried couple",0
+62,0,0,0,9.0,1,0,"Associate degree",0,"Not at all",1,0,"Member of an unmarried couple",0
+30,0,0,1,6.0,0,0,"High school diploma or GED",1,"Several days",1,1,"Single, never married",0
+30,1,1,1,5.0,1,0,"Attended college but did not complete a degree",3,"Nearly every day",0,1,"Single, never married",1
+33,1,1,0,5.0,1,0,"High school diploma or GED",2,"Several days",0,0,"Single, never married",1
+57,0,0,1,6.0,1,0,"High school diploma or GED",1,"Not at all",0,0,"Married",0
+44,0,0,0,7.0,0,0,"Bachelor's degree",0,"Not at all",1,1,"Single, never married",0
+28,0,0,0,8.0,0,0,"Bachelor's degree",0,"Not at all",1,0,"Single, never married",0
+35,1,1,0,5.0,1,0,"Associate degree",2,"More than half the days",0,1,"Married",1
+37,0,0,0,8.0,0,0,"High school diploma or GED",0,"Not at all",0,1,"Single, never married",1
+31,0,0,0,10.0,1,0,"High school diploma or GED",0,"Not at all",1,1,"Single, never married",0
+51,0,0,0,5.0,1,0,"High school diploma or GED",0,"Not at all",0,0,"Single, never married",0
+63,0,0,0,6.0,1,0,"High school diploma or GED",0,"Not at all",1,0,"Divorced",1
+33,0,1,0,8.0,1,0,"High school diploma or GED",1,"Several days",1,0,"Member of an unmarried couple",1
+35,1,1,0,7.0,1,0,"Associate degree",2,"Several days",1,0,"Married",1
+22,1,0,0,7.0,1,0,"High school diploma or GED",1,"More than half the days",1,1,"Single, never married",0
+21,1,1,1,6.0,1,0,"Did not complete high school",3,"Several days",0,0,"Single, never married",1
+59,1,1,0,6.0,1,0,"Attended college but did not complete a degree",2,"Nearly every day",0,0,"Divorced",1
+32,0,1,0,6.0,1,0,"Did not complete high school",1,"Nearly every day",0,0,"Single, never married",1
+19,0,0,0,6.0,1,0,"Attended college but did not complete a degree",0,"Several days",1,0,"Single, never married",1
+29,1,1,0,8.0,1,0,"Bachelor's degree",2,"Several days",1,1,"Single, never married",1
+45,0,0,0,6.0,1,0,"High school diploma or GED",0,"Not at all",1,1,"Single, never married",0
+40,1,1,1,5.0,1,0,"Did not complete high school",3,"Not at all",0,0,"Single, never married",1
+32,1,1,0,6.0,1,0,"High school diploma or GED",2,"More than half the days",0,0,"Single, never married",1
+31,1,1,0,5.0,1,0,"Bachelor's degree",2,"Several days",1,1,"Separated",1
+51,0,0,0,7.0,0,0,"Bachelor's degree",0,"Not at all",1,0,"Married",1
+20,1,1,0,7.0,1,0,"High school diploma or GED",2,"Not at all",0,0,"Single, never married",0
+44,0,0,0,8.0,1,0,"High school diploma or GED",0,"Not at all",0,1,"Single, never married",0
+34,0,0,0,8.0,1,0,"Associate degree",0,"Not at all",0,1,"Married",0
+18,0,0,0,8.0,1,0,"Attended college but did not complete a degree",0,"More than half the days",0,1,"Single, never married",1
+20,0,1,1,8.0,0,0,"High school diploma or GED",2,"Nearly every day",0,1,"Single, never married",0
+24,0,0,0,6.0,1,0,"Bachelor's degree",0,"More than half the days",1,1,"Single, never married",1
+31,1,1,0,5.0,1,0,"Attended college but did not complete a degree",2,"Several days",1,1,"Member of an unmarried couple",1
+55,0,0,0,8.0,1,0,"High school diploma or GED",0,"Not at all",1,1,"Divorced",0
+35,1,1,1,6.0,1,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",3,"Several days",0,1,"Married",1
+26,0,0,0,7.0,0,0,"Bachelor's degree",0,"Not at all",1,1,"Married",0
+40,1,1,1,6.0,1,0,"Attended college but did not complete a degree",3,"More than half the days",0,0,"Separated",1
+63,0,0,0,6.0,1,0,"Did not complete high school",0,"More than half the days",0,0,"Divorced",1
+18,1,1,0,8.0,1,0,"High school diploma or GED",2,"Several days",0,0,"Single, never married",1
+55,0,0,0,7.0,0,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",0,"Not at all",0,0,"Single, never married",0
+64,0,1,0,5.0,1,0,"Attended college but did not complete a degree",1,"Several days",1,0,"Widowed",1
+38,0,0,0,7.0,1,0,"High school diploma or GED",0,"Several days",1,0,"Married",1
+64,0,0,0,7.0,1,0,"Attended college but did not complete a degree",0,"Not at all",1,0,"Single, never married",0
+55,0,0,0,8.0,1,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",0,"Not at all",1,0,"Divorced",1
+56,1,1,0,5.0,1,0,"High school diploma or GED",2,"Nearly every day",0,0,"Married",1
+59,0,1,0,7.0,1,0,"High school diploma or GED",1,"Not at all",0,0,"Married",1
+46,1,1,0,10.0,0,0,"Did not complete high school",2,"Several days",0,0,"Separated",1
+21,0,0,0,10.0,0,0,"Associate degree",0,"Not at all",0,1,"Single, never married",1
+28,1,1,0,6.0,0,0,"Attended college but did not complete a degree",2,"Not at all",0,1,"Single, never married",1
+20,0,0,0,8.0,1,0,"Attended college but did not complete a degree",0,"More than half the days",1,0,"Single, never married",0
+30,0,0,0,9.0,0,0,"Bachelor's degree",0,"Not at all",1,1,"Single, never married",0
+20,1,1,0,5.0,1,0,"Attended college but did not complete a degree",2,"Nearly every day",0,0,"Single, never married",1
+55,0,0,0,6.0,1,0,"Attended college but did not complete a degree",0,"Several days",0,0,"Widowed",0
+43,0,0,0,6.0,0,0,"High school diploma or GED",0,"Several days",0,1,"Married",0
+45,0,0,0,7.0,1,0,"Bachelor's degree",0,"Not at all",0,0,"Married",0
+22,1,1,1,5.0,0,1,"Attended college but did not complete a degree",3,"Several days",1,1,"Single, never married",1
+18,0,0,0,9.0,0,0,"High school diploma or GED",0,"Not at all",1,0,"Single, never married",0
+25,0,1,1,6.0,1,0,"Attended college but did not complete a degree",2,"Nearly every day",1,0,"Married",1
+19,0,0,0,8.0,1,0,"Attended college but did not complete a degree",0,"Not at all",0,0,"Single, never married",0
+31,0,0,0,6.0,0,0,"Attended college but did not complete a degree",0,"Several days",1,1,"Single, never married",0
+24,0,0,0,7.0,0,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",0,"Not at all",0,1,"Single, never married",1
+23,0,1,0,8.0,1,0,"Attended college but did not complete a degree",1,"Not at all",1,1,"Single, never married",1
+30,0,1,0,7.0,1,0,"Bachelor's degree",1,"Not at all",1,1,"Married",1
+34,0,0,0,6.0,1,0,"Bachelor's degree",0,"Nearly every day",1,1,"Single, never married",1
+18,0,0,0,7.0,0,0,"Attended college but did not complete a degree",0,"Several days",0,0,"Single, never married",1
+60,0,0,0,6.0,1,0,"Bachelor's degree",0,"Not at all",1,0,"Divorced",0
+22,1,1,1,10.0,0,0,"Attended college but did not complete a degree",3,"More than half the days",1,0,"Single, never married",0
+26,0,0,0,6.0,0,0,"Bachelor's degree",0,"Not at all",0,1,"Single, never married",0
+21,0,0,0,8.0,0,0,"High school diploma or GED",0,"Nearly every day",1,1,"Married",1
+18,0,0,0,7.0,1,0,"High school diploma or GED",0,"Not at all",1,0,"Single, never married",0
+19,1,1,0,8.0,1,0,"High school diploma or GED",2,"More than half the days",0,0,"Single, never married",0
+50,0,0,0,6.0,1,0,"Bachelor's degree",0,"Not at all",0,1,"Single, never married",0
+35,0,1,1,8.0,1,0,"Associate degree",2,"Not at all",1,1,"Single, never married",0
+22,1,1,0,6.0,1,0,"Bachelor's degree",2,"Not at all",0,1,"Married",1
+19,0,0,0,5.0,0,0,"High school diploma or GED",0,"Not at all",0,1,"Single, never married",1
+45,0,0,0,7.0,1,0,"Bachelor's degree",0,"Not at all",1,1,"Separated",1
+20,0,0,0,6.0,0,0,"High school diploma or GED",0,"Several days",0,0,"Single, never married",1
+40,0,0,0,6.0,1,0,"Bachelor's degree",0,"Not at all",1,0,"Married",0
+24,1,0,1,6.0,1,0,"Associate degree",2,"More than half the days",0,1,"Member of an unmarried couple",1
+18,0,0,0,7.0,1,0,"High school diploma or GED",0,"Several days",1,1,"Single, never married",1
+30,1,1,0,6.0,0,0,"Attended college but did not complete a degree",2,"Several days",1,0,"Single, never married",1
+36,0,1,0,6.0,1,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",1,"Several days",1,1,"Single, never married",1
+25,0,0,0,8.0,0,0,"Bachelor's degree",0,"Several days",1,1,"Married",0
+21,1,1,1,9.0,1,0,"Did not complete high school",3,"Nearly every day",0,0,"Member of an unmarried couple",1
+22,1,1,1,6.0,1,0,"Did not complete high school",3,"Nearly every day",1,1,"Single, never married",1
+45,1,1,0,6.0,1,0,"Did not complete high school",2,"Several days",0,0,"Married",1
+45,0,0,0,6.0,1,0,"Associate degree",0,"Several days",1,1,"Single, never married",1
+40,0,1,0,6.0,0,0,"Bachelor's degree",1,"More than half the days",0,1,"Married",1
+58,0,0,0,7.0,0,0,"High school diploma or GED",0,"Several days",0,1,"Married",1
+20,0,0,0,8.0,1,0,"High school diploma or GED",0,"Not at all",0,1,"Single, never married",0
+62,1,1,0,8.0,0,0,"High school diploma or GED",2,"Several days",1,0,"Married",1
+45,0,0,0,8.0,1,0,"Did not complete high school",0,"Not at all",0,0,"Married",0
+47,1,1,0,6.0,0,0,"Did not complete high school",2,"Nearly every day",1,1,"Divorced",1
+40,0,0,0,7.0,1,0,"Did not complete high school",0,"Not at all",1,0,"Married",0
+29,0,0,0,8.0,1,0,"High school diploma or GED",0,"Several days",1,1,"Married",0
+34,0,1,0,8.0,0,0,"High school diploma or GED",1,"Not at all",1,1,"Member of an unmarried couple",0
+27,0,0,0,6.0,1,0,"High school diploma or GED",0,"Not at all",1,1,"Married",0
+23,0,0,0,5.0,0,0,"Bachelor's degree",0,"Several days",1,1,"Single, never married",1
+30,0,0,1,8.0,1,0,"Did not complete high school",1,"Not at all",1,0,"Divorced",0
+30,1,1,0,8.0,0,0,"Attended college but did not complete a degree",2,"Not at all",0,1,"Single, never married",1
+27,1,1,0,6.0,0,0,"Attended college but did not complete a degree",2,"Nearly every day",1,1,"Member of an unmarried couple",0
+28,0,0,0,8.0,0,0,"High school diploma or GED",0,"Not at all",0,1,"Single, never married",0
+56,1,0,0,7.0,1,0,"High school diploma or GED",1,"More than half the days",1,0,"Single, never married",1
+28,0,0,0,9.0,1,0,"Bachelor's degree",0,"Several days",0,1,"Married",1
+33,1,1,0,6.0,1,0,"High school diploma or GED",2,"Several days",1,0,"Single, never married",1
+32,1,1,0,6.0,0,0,"Did not complete high school",2,"Several days",0,0,"Single, never married",1
+50,1,1,0,5.0,0,0,"Attended college but did not complete a degree",2,"Several days",0,1,"Married",1
+32,1,1,0,6.0,1,0,"High school diploma or GED",2,"More than half the days",1,1,"Married",1
+23,1,1,1,8.0,0,0,"Did not complete high school",3,"Several days",1,0,"Married",1
+52,0,0,0,7.0,1,0,"Attended college but did not complete a degree",0,"Not at all",0,1,"Single, never married",0
+46,1,1,0,8.0,1,0,"High school diploma or GED",2,"Nearly every day",0,0,"Widowed",0
+40,1,0,0,6.0,1,0,"High school diploma or GED",1,"More than half the days",1,1,"Divorced",1
+22,1,0,0,10.0,0,0,"Associate degree",1,"Several days",0,0,"Single, never married",0
+18,0,0,0,8.0,0,0,"High school diploma or GED",0,"Not at all",1,0,"Single, never married",1
+61,0,0,0,7.0,1,0,"Attended college but did not complete a degree",0,"Several days",0,0,"Married",1
+39,1,1,0,6.0,1,0,"High school diploma or GED",2,"More than half the days",1,1,"Single, never married",1
+18,0,0,1,8.0,1,0,"High school diploma or GED",1,"Not at all",0,0,"Single, never married",0
+28,0,0,0,6.0,1,0,"Attended college but did not complete a degree",0,"Several days",0,0,"Married",1
+33,0,0,0,5.0,1,0,"Attended college but did not complete a degree",0,"More than half the days",1,0,"Single, never married",1
+31,0,0,0,5.0,1,0,"Associate degree",0,"Several days",0,1,"Single, never married",1
+28,1,0,0,5.0,1,0,"Attended college but did not complete a degree",1,"Nearly every day",1,0,"Single, never married",1
+22,0,0,0,5.0,1,0,"High school diploma or GED",0,"Nearly every day",0,0,"Single, never married",1
+37,1,1,0,5.0,1,0,"Did not complete high school",2,"More than half the days",1,0,"Member of an unmarried couple",1
+22,0,1,0,10.0,1,0,"Associate degree",1,"More than half the days",0,1,"Married",1
+28,0,0,0,8.0,0,0,"High school diploma or GED",0,"Not at all",0,1,"Single, never married",0
+34,0,0,0,10.0,1,0,"Associate degree",0,"Not at all",1,0,"Single, never married",0
+19,0,1,1,6.0,1,0,"High school diploma or GED",2,"Several days",0,0,"Member of an unmarried couple",0
+19,0,0,0,8.0,0,0,"High school diploma or GED",0,"Not at all",1,1,"Single, never married",0
+23,0,0,0,8.0,0,0,"High school diploma or GED",0,"Not at all",1,1,"Single, never married",1
+31,1,0,0,5.0,1,0,"Attended college but did not complete a degree",1,"Several days",0,0,"Single, never married",1
+29,1,0,1,8.0,1,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",2,"More than half the days",1,0,"Single, never married",1
+41,0,0,0,7.0,1,0,"Did not complete high school",0,"Not at all",1,1,"Married",1
+44,1,0,0,5.0,1,0,"Did not complete high school",1,"Nearly every day",0,0,"Single, never married",1
+38,0,1,1,8.0,1,0,"Bachelor's degree",2,"Not at all",0,1,"Divorced",1
+20,1,1,0,5.0,1,0,"Attended college but did not complete a degree",2,"Nearly every day",1,0,"Single, never married",1
+27,0,0,0,7.0,1,0,"Bachelor's degree",0,"Not at all",0,1,"Single, never married",0
+32,1,1,1,6.0,0,0,"High school diploma or GED",3,"Nearly every day",0,1,"Single, never married",1
+43,0,0,0,8.0,1,0,"Bachelor's degree",0,"Not at all",1,1,"Married",1
+25,1,1,0,8.0,1,0,"High school diploma or GED",2,"More than half the days",1,1,"Single, never married",1
+53,1,1,1,8.0,1,0,"Attended college but did not complete a degree",3,"More than half the days",0,0,"Married",1
+29,1,1,1,5.0,1,0,"Did not complete high school",3,"More than half the days",1,0,"Single, never married",1
+30,0,0,0,10.0,1,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",0,"Nearly every day",1,0,"Single, never married",0
+29,1,1,0,6.0,0,0,"Attended college but did not complete a degree",2,"More than half the days",0,1,"Married",1
+33,0,1,0,6.0,0,0,"High school diploma or GED",1,"Nearly every day",0,1,"Single, never married",0
+29,1,1,1,10.0,1,0,"Did not complete high school",3,"Several days",1,0,"Member of an unmarried couple",1
+28,0,0,0,6.0,0,0,"High school diploma or GED",0,"Several days",1,1,"Divorced",1
+31,0,0,0,5.0,1,0,"Attended college but did not complete a degree",0,"Nearly every day",1,1,"Married",0
+29,1,1,1,8.0,1,0,"Did not complete high school",3,"Several days",1,0,"Single, never married",0
+51,0,0,0,7.0,1,0,"Bachelor's degree",0,"Not at all",0,1,"Married",0
+50,0,0,0,6.0,1,0,"Did not complete high school",0,"Several days",0,0,"Member of an unmarried couple",0
+31,1,0,0,8.0,0,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",1,"Not at all",1,1,"Married",1
+64,0,1,0,8.0,0,0,"Did not complete high school",1,"Not at all",0,0,"Divorced",1
+42,1,0,0,7.0,1,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",1,"Not at all",1,0,"Married",1
+43,1,1,0,6.0,1,0,"Did not complete high school",2,"More than half the days",1,0,"Member of an unmarried couple",0
+25,0,1,0,8.0,1,0,"Bachelor's degree",1,"Not at all",1,1,"Single, never married",1
+43,1,0,0,8.0,0,0,"Attended college but did not complete a degree",1,"Several days",0,1,"Married",1
+35,0,1,0,9.0,0,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",1,"Not at all",1,1,"Married",0
+33,0,0,0,5.0,1,0,"Did not complete high school",0,"More than half the days",0,1,"Married",1
+26,0,1,0,8.0,0,0,"High school diploma or GED",1,"Not at all",0,1,"Single, never married",0
+64,0,0,0,8.0,0,0,"Did not complete high school",0,"Not at all",0,1,"Separated",1
+45,1,0,0,8.0,0,0,"Attended college but did not complete a degree",1,"More than half the days",1,0,"Married",1
+27,0,0,0,7.0,0,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",0,"Several days",1,1,"Single, never married",0
+33,1,0,0,5.0,0,0,"High school diploma or GED",1,"More than half the days",0,1,"Single, never married",0
+28,1,1,0,9.0,0,0,"Did not complete high school",2,"Nearly every day",0,0,"Single, never married",0
+28,1,1,1,5.0,0,0,"Attended college but did not complete a degree",3,"Nearly every day",0,0,"Single, never married",1
+42,1,1,0,10.0,1,0,"Did not complete high school",2,"Not at all",1,0,"Divorced",0
+46,0,1,1,7.0,1,0,"Did not complete high school",2,"Not at all",1,0,"Married",0
+61,0,0,0,6.0,0,0,"High school diploma or GED",0,"Several days",0,0,"Widowed",1
+31,0,0,0,7.0,0,0,"Associate degree",0,"Not at all",0,1,"Married",0
+24,1,1,1,5.0,1,0,"High school diploma or GED",3,"Nearly every day",1,1,"Member of an unmarried couple",1
+59,0,0,0,5.0,0,0,"Attended college but did not complete a degree",0,"More than half the days",1,0,"Divorced",1
+46,1,1,0,5.0,0,0,"Associate degree",2,"Nearly every day",0,1,"Married",1
+59,1,1,0,8.0,0,0,"Attended college but did not complete a degree",2,"Several days",1,0,"Member of an unmarried couple",1
+31,0,0,0,7.0,0,0,"High school diploma or GED",0,"Not at all",1,1,"Single, never married",0
+25,1,1,1,9.0,1,0,"Did not complete high school",3,"Nearly every day",1,0,"Married",1
+57,0,0,0,7.0,0,0,"High school diploma or GED",0,"Not at all",0,0,"Single, never married",0
+63,0,0,0,6.0,0,0,"Bachelor's degree",0,"Several days",0,0,"Single, never married",0
+37,0,0,0,5.0,0,0,"Bachelor's degree",0,"More than half the days",1,1,"Divorced",1
+59,0,0,0,6.0,0,0,"Attended college but did not complete a degree",0,"Not at all",1,1,"Married",1
+31,0,0,0,8.0,0,0,"Attended college but did not complete a degree",0,"Not at all",0,0,"Single, never married",0
+64,0,0,0,8.0,0,0,"Associate degree",0,"Not at all",0,1,"Single, never married",1
+39,1,1,0,10.0,1,0,"Did not complete high school",2,"Several days",0,0,"Married",1
+27,1,1,1,7.0,0,0,"Bachelor's degree",3,"Several days",1,0,"Single, never married",1
+38,0,0,0,8.0,0,0,"Bachelor's degree",0,"Several days",1,1,"Married",0
+56,1,1,0,10.0,0,0,"Bachelor's degree",2,"Nearly every day",1,0,"Married",1
+62,0,0,0,6.5,0,0,"Bachelor's degree",0,"Not at all",1,0,"Married",1
+42,1,1,1,9.0,0,0,"Attended college but did not complete a degree",3,"Several days",0,0,"Married",1
+36,1,1,1,6.0,1,0,"Did not complete high school",3,"More than half the days",1,1,"Single, never married",1
+53,0,0,0,10.0,0,0,"Bachelor's degree",0,"Not at all",1,1,"Married",0
+47,0,1,0,6.0,0,0,"Attended college but did not complete a degree",1,"Nearly every day",0,0,"Divorced",1
+64,0,0,0,8.0,0,0,"Bachelor's degree",0,"Not at all",1,1,"Married",1
+29,1,1,0,8.0,0,0,"Bachelor's degree",2,"Several days",0,0,"Single, never married",0
+46,0,1,0,7.0,0,0,"Attended college but did not complete a degree",1,"Not at all",0,1,"Divorced",1
+39,1,1,0,5.0,1,0,"Did not complete high school",2,"Nearly every day",0,0,"Member of an unmarried couple",1
+64,0,0,0,7.0,0,0,"Attended college but did not complete a degree",0,"Not at all",0,0,"Married",1
+54,0,1,0,6.0,0,0,"Attended college but did not complete a degree",1,"Not at all",1,0,"Member of an unmarried couple",0
+44,0,0,0,6.0,0,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",0,"Not at all",1,1,"Married",0
+57,0,0,0,7.0,0,0,"High school diploma or GED",0,"Not at all",0,0,"Married",1
+60,0,0,0,5.0,0,0,"High school diploma or GED",0,"Several days",1,1,"Single, never married",1
+61,1,1,0,7.0,0,0,"Attended college but did not complete a degree",2,"Not at all",0,0,"Married",1
+64,0,0,0,5.0,0,0,"Attended college but did not complete a degree",0,"Not at all",0,1,"Married",1
+61,0,1,0,7.0,0,0,"High school diploma or GED",1,"Several days",0,0,"Married",1
+55,0,0,0,8.0,0,0,"Bachelor's degree",0,"Not at all",0,0,"Married",0
+34,1,1,0,6.0,0,0,"High school diploma or GED",2,"Several days",0,0,"Married",1
+55,0,0,0,7.0,0,0,"Bachelor's degree",0,"Not at all",1,1,"Divorced",0
+40,0,0,0,6.0,0,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",0,"Not at all",1,1,"Married",0
+56,0,0,0,8.0,0,0,"Bachelor's degree",0,"Not at all",0,1,"Single, never married",1
+44,0,0,0,8.0,0,0,"High school diploma or GED",0,"More than half the days",1,1,"Separated",1
+39,1,0,1,6.0,0,0,"High school diploma or GED",2,"More than half the days",0,1,"Married",1
+40,0,0,0,7.0,0,0,"Bachelor's degree",0,"Not at all",1,0,"Married",1
+43,0,0,0,6.0,0,0,"Attended college but did not complete a degree",0,"Several days",1,1,"Divorced",1
+49,0,0,0,6.0,0,0,"Bachelor's degree",0,"Not at all",1,1,"Member of an unmarried couple",0
+30,0,0,0,6.0,0,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",0,"Several days",1,1,"Married",0
+57,0,0,0,6.0,0,0,"Attended college but did not complete a degree",0,"Several days",1,1,"Divorced",1
+59,0,0,0,5.0,0,0,"Bachelor's degree",0,"Nearly every day",1,1,"Single, never married",1
+29,0,0,0,7.0,0,0,"High school diploma or GED",0,"Not at all",1,1,"Married",1
+55,1,1,0,8.0,0,0,"High school diploma or GED",2,"More than half the days",0,1,"Divorced",0
+59,0,0,0,8.0,0,0,"Bachelor's degree",0,"Not at all",1,0,"Married",0
+33,0,0,0,8.0,0,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",0,"Not at all",1,1,"Married",0
+28,0,0,0,8.0,0,0,"Attended college but did not complete a degree",0,"Several days",0,1,"Member of an unmarried couple",0
+34,1,1,0,9.0,0,0,"Attended college but did not complete a degree",2,"More than half the days",1,0,"Member of an unmarried couple",1
+55,0,0,0,6.0,0,0,"Attended college but did not complete a degree",0,"Not at all",0,0,"Single, never married",1
+47,0,0,0,5.0,0,0,"Attended college but did not complete a degree",0,"Several days",0,1,"Married",1
+51,1,1,0,5.0,0,0,"Bachelor's degree",2,"Nearly every day",0,1,"Married",0
+45,0,0,0,8.0,0,0,"Associate degree",0,"Not at all",1,1,"Married",0
+53,0,0,0,9.0,1,0,"High school diploma or GED",0,"Not at all",1,1,"Married",0
+56,0,0,0,6.0,0,0,"Attended college but did not complete a degree",0,"Several days",1,1,"Married",0
+25,0,0,0,9.0,0,0,"Bachelor's degree",0,"Not at all",0,1,"Single, never married",0
+62,0,0,0,6.0,0,0,"Attended college but did not complete a degree",0,"Not at all",1,0,"Divorced",1
+63,1,1,0,10.0,0,0,"Associate degree",2,"Not at all",0,0,"Divorced",1
+41,1,0,0,6.0,0,0,"Attended college but did not complete a degree",1,"Several days",1,0,"Married",1
+33,0,0,0,8.0,0,0,"Attended college but did not complete a degree",0,"Several days",1,1,"Married",0
+40,0,0,0,6.0,0,0,"Attended college but did not complete a degree",0,"More than half the days",1,1,"Married",1
+60,0,0,0,6.0,0,0,"Attended college but did not complete a degree",0,"Not at all",0,1,"Married",0
+27,0,0,0,8.0,0,0,"Bachelor's degree",0,"Several days",0,0,"Single, never married",0
+50,0,0,0,8.0,1,0,"High school diploma or GED",0,"Several days",1,0,"Member of an unmarried couple",1
+53,1,1,0,8.0,0,0,"High school diploma or GED",2,"Not at all",1,1,"Single, never married",1
+46,0,0,0,7.0,0,0,"Bachelor's degree",0,"Not at all",0,0,"Single, never married",0
+35,0,0,0,8.0,0,0,"Bachelor's degree",0,"Not at all",0,1,"Single, never married",0
+47,1,1,1,8.0,0,0,"High school diploma or GED",3,"More than half the days",1,0,"Single, never married",1
+59,0,0,0,6.0,0,0,"Bachelor's degree",0,"Several days",1,1,"Single, never married",1
+60,1,0,0,7.0,0,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",1,"Not at all",0,0,"Divorced",1
+45,0,0,1,6.0,0,0,"Attended college but did not complete a degree",1,"Not at all",1,1,"Married",0
+52,0,1,0,7.0,0,0,"Attended college but did not complete a degree",1,"Not at all",0,1,"Single, never married",0
+34,0,1,0,8.0,0,0,"High school diploma or GED",1,"Several days",1,0,"Single, never married",0
+55,0,0,0,5.0,0,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",0,"Several days",1,0,"Married",0
+43,0,1,0,9.0,0,0,"Associate degree",1,"Not at all",0,1,"Single, never married",0
+35,0,0,0,10.0,0,0,"Bachelor's degree",0,"Not at all",0,1,"Married",0
+42,0,0,0,8.0,0,0,"Bachelor's degree",0,"Not at all",1,1,"Married",1
+27,0,1,0,5.0,0,0,"High school diploma or GED",1,"Several days",0,1,"Single, never married",1
+60,0,0,0,6.0,0,0,"Attended college but did not complete a degree",0,"Several days",0,0,"Single, never married",0
+42,0,0,0,8.0,0,0,"High school diploma or GED",0,"Not at all",1,1,"Single, never married",0
+40,1,1,1,8.0,0,0,"High school diploma or GED",3,"Not at all",1,1,"Separated",1
+49,0,0,0,8.0,0,0,"High school diploma or GED",0,"Several days",1,1,"Married",1
+44,1,1,0,5.0,0,0,"Bachelor's degree",2,"Several days",1,0,"Divorced",1
+32,1,1,1,8.0,1,0,"High school diploma or GED",3,"Several days",1,1,"Single, never married",0
+48,1,1,1,10.0,0,0,"Attended college but did not complete a degree",3,"Several days",1,0,"Single, never married",1
+56,0,0,0,8.0,0,0,"Attended college but did not complete a degree",0,"Several days",1,1,"Divorced",0
+34,0,0,0,5.0,1,0,"Bachelor's degree",0,"More than half the days",1,0,"Single, never married",0
+43,1,1,0,7.0,0,0,"Associate degree",2,"Not at all",0,0,"Divorced",0
+46,0,0,0,6.0,0,0,"Associate degree",0,"More than half the days",0,0,"Single, never married",0
+58,0,0,0,6.0,0,0,"Associate degree",0,"Not at all",1,1,"Divorced",1
+44,0,0,0,6.0,0,0,"Attended college but did not complete a degree",0,"Several days",0,1,"Divorced",0
+30,0,0,0,7.0,0,0,"Attended college but did not complete a degree",0,"More than half the days",0,1,"Single, never married",1
+41,0,0,0,7.0,0,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",0,"Several days",0,1,"Member of an unmarried couple",0
+40,0,1,0,8.0,0,0,"Attended college but did not complete a degree",1,"Not at all",1,1,"Married",0
+47,0,0,0,5.0,0,0,"Associate degree",0,"More than half the days",1,1,"Married",0
+58,0,0,0,8.0,0,0,"Attended college but did not complete a degree",0,"Not at all",1,1,"Single, never married",0
+34,0,0,0,6.0,0,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",0,"Not at all",1,1,"Married",1
+37,0,0,0,6.0,0,0,"Bachelor's degree",0,"Several days",0,1,"Single, never married",1
+42,0,1,1,5.0,0,0,"Attended college but did not complete a degree",2,"Several days",1,1,"Married",1
+53,1,1,1,6.0,0,0,"Bachelor's degree",3,"Nearly every day",0,0,"Married",0
+25,1,1,1,5.0,0,0,"Attended college but did not complete a degree",3,"Several days",1,0,"Single, never married",1
+48,1,1,1,5.0,0,0,"Associate degree",3,"Nearly every day",1,0,"Divorced",1
+29,0,0,0,10.0,1,0,"Bachelor's degree",0,"Not at all",1,0,"Married",1
+53,1,0,0,5.5,0,0,"Attended college but did not complete a degree",1,"Not at all",1,1,"Married",1
+27,0,0,0,7.0,0,0,"Attended college but did not complete a degree",0,"Several days",1,1,"Single, never married",0
+26,0,0,0,9.0,0,0,"Bachelor's degree",0,"Not at all",1,1,"Married",0
+62,1,1,0,6.0,0,0,"Attended college but did not complete a degree",2,"Nearly every day",1,0,"Single, never married",1
+62,0,0,0,7.0,0,0,"Attended college but did not complete a degree",0,"Not at all",0,0,"Married",1
+62,0,0,0,7.0,0,0,"Bachelor's degree",0,"Not at all",0,1,"Single, never married",0
+58,0,0,0,8.0,0,0,"Bachelor's degree",0,"Not at all",0,1,"Married",0
+42,0,0,0,8.0,0,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",0,"Not at all",1,0,"Single, never married",0
+63,0,0,0,7.0,0,0,"Associate degree",0,"Not at all",1,0,"Married",1
+49,0,0,0,6.0,0,0,"Associate degree",0,"Not at all",0,1,"Married",1
+51,0,0,0,7.0,0,0,"Bachelor's degree",0,"Several days",0,0,"Single, never married",0
+42,0,0,0,7.0,1,0,"Bachelor's degree",0,"Not at all",1,0,"Married",1
+32,0,1,1,5.0,0,0,"Did not complete high school",2,"More than half the days",1,1,"Single, never married",1
+60,1,1,0,7.0,0,0,"Associate degree",2,"Several days",1,0,"Divorced",1
+37,0,1,0,8.0,0,0,"Bachelor's degree",1,"Several days",1,1,"Single, never married",1
+56,0,0,0,7.0,0,0,"Bachelor's degree",0,"Several days",1,1,"Divorced",1
+34,0,0,0,7.0,0,0,"Attended college but did not complete a degree",0,"Not at all",0,1,"Married",1
+30,1,1,0,8.0,0,0,"Associate degree",2,"Several days",1,1,"Separated",0
+51,0,0,0,7.0,0,0,"Attended college but did not complete a degree",0,"Several days",0,1,"Single, never married",1
+63,0,0,0,6.0,0,0,"Associate degree",0,"Not at all",1,0,"Married",1
+51,0,0,0,8.0,0,0,"Attended college but did not complete a degree",0,"Not at all",0,1,"Married",0
+61,0,0,0,8.0,0,0,"Bachelor's degree",0,"Not at all",1,1,"Married",0
+41,0,0,0,10.0,0,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",0,"Several days",0,1,"Married",0
+44,0,1,1,6.0,0,0,"Associate degree",2,"Several days",1,0,"Single, never married",0
+55,0,0,0,8.0,0,0,"Bachelor's degree",0,"Several days",0,1,"Single, never married",0
+52,0,0,0,8.0,0,0,"Attended college but did not complete a degree",0,"Not at all",1,1,"Married",0
+51,0,1,0,9.0,0,0,"Bachelor's degree",1,"More than half the days",0,0,"Divorced",1
+42,0,0,0,7.0,0,0,"Bachelor's degree",0,"Not at all",1,1,"Married",1
+60,0,0,0,6.0,0,0,"Bachelor's degree",0,"Not at all",1,1,"Married",0
+48,1,1,0,6.0,0,0,"Bachelor's degree",2,"More than half the days",0,1,"Single, never married",0
+39,1,1,1,6.0,0,0,"Attended college but did not complete a degree",3,"More than half the days",1,0,"Divorced",0
+41,0,0,0,7.0,0,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",0,"Several days",1,1,"Married",0
+57,0,0,0,8.0,0,0,"Bachelor's degree",0,"Not at all",1,1,"Married",1
+37,1,1,0,6.0,0,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",2,"Not at all",1,1,"Married",0
+28,0,0,0,6.0,0,0,"Associate degree",0,"More than half the days",0,1,"Single, never married",0
+63,0,0,0,5.0,0,0,"Attended college but did not complete a degree",0,"Not at all",1,1,"Single, never married",1
+64,0,0,0,7.0,0,0,"Bachelor's degree",0,"Not at all",1,1,"Married",0
+48,0,0,0,9.0,0,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",0,"Several days",1,0,"Married",0
+60,1,1,0,7.0,0,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",2,"Several days",1,1,"Divorced",1
+62,0,0,0,6.0,0,0,"Bachelor's degree",0,"Not at all",1,0,"Married",0
+33,0,0,0,5.0,0,0,"Attended college but did not complete a degree",0,"More than half the days",1,1,"Single, never married",1
+35,1,1,1,8.0,1,0,"Did not complete high school",3,"Not at all",1,0,"Single, never married",1
+39,0,0,0,9.0,1,0,"Attended college but did not complete a degree",0,"Not at all",1,1,"Married",0
+33,1,1,1,6.0,1,0,"Associate degree",3,"Several days",1,1,"Married",1
+36,1,1,1,6.0,0,0,"Attended college but did not complete a degree",3,"Not at all",1,1,"Member of an unmarried couple",1
+43,0,0,0,7.5,0,1,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",0,"Several days",1,1,"Divorced",1
+35,0,1,0,6.0,0,0,"Bachelor's degree",1,"Not at all",0,1,"Married",0
+54,1,1,0,6.0,0,0,"Attended college but did not complete a degree",2,"More than half the days",0,1,"Married",0
+40,0,0,0,6.0,0,0,"Attended college but did not complete a degree",0,"Not at all",0,1,"Married",0
+32,0,0,0,8.0,0,0,"Bachelor's degree",0,"Not at all",1,1,"Single, never married",1
+38,1,1,1,6.0,0,0,"Attended college but did not complete a degree",3,"Several days",1,0,"Married",1
+52,0,0,1,8.0,0,0,"Associate degree",1,"Several days",1,1,"Widowed",0
+63,0,0,0,7.0,0,0,"Associate degree",0,"Not at all",0,0,"Married",1
+42,1,1,0,6.0,0,0,"Bachelor's degree",2,"Not at all",1,1,"Married",1
+56,0,0,0,7.0,0,0,"Bachelor's degree",0,"Several days",1,0,"Widowed",0
+49,0,0,0,8.0,0,0,"Bachelor's degree",0,"Not at all",1,1,"Married",0
+57,1,1,0,7.0,0,0,"Attended college but did not complete a degree",2,"Several days",1,1,"Member of an unmarried couple",1
+44,0,0,0,7.0,0,0,"Attended college but did not complete a degree",0,"Nearly every day",0,1,"Divorced",1
+60,0,0,0,7.0,0,0,"Bachelor's degree",0,"Not at all",1,1,"Married",0
+62,1,0,0,8.0,0,0,"Attended college but did not complete a degree",1,"Several days",0,0,"Married",1
+35,1,0,0,6.0,1,0,"Did not complete high school",1,"Several days",1,1,"Single, never married",1
+40,1,1,1,8.0,0,0,"Attended college but did not complete a degree",3,"Not at all",1,1,"Single, never married",1
+34,0,0,0,8.0,0,0,"Bachelor's degree",0,"Not at all",1,1,"Single, never married",0
+60,1,1,0,8.0,1,0,"Bachelor's degree",2,"Not at all",0,0,"Widowed",1
+60,1,0,0,9.0,1,0,"Bachelor's degree",1,"More than half the days",1,1,"Single, never married",0
+60,0,0,0,6.0,1,0,"Bachelor's degree",0,"Several days",1,0,"Married",1
+63,1,1,0,5.0,1,0,"Attended college but did not complete a degree",2,"Several days",1,0,"Single, never married",1
+63,1,1,0,5.0,1,0,"Attended college but did not complete a degree",2,"More than half the days",1,0,"Widowed",1
+47,1,1,1,8.0,1,0,"Did not complete high school",3,"Several days",0,1,"Divorced",1
+54,0,0,1,5.0,1,0,"Did not complete high school",1,"Not at all",0,0,"Divorced",0
+60,0,0,0,6.0,1,0,"Attended college but did not complete a degree",0,"Not at all",0,0,"Married",1
+44,0,0,0,7.0,0,0,"Bachelor's degree",0,"Several days",0,1,"Single, never married",1
+63,0,0,0,5.0,1,0,"Attended college but did not complete a degree",0,"Several days",0,1,"Divorced",0
+59,1,0,0,6.0,1,0,"Attended college but did not complete a degree",1,"Several days",0,0,"Widowed",1
+59,1,1,1,6.0,1,0,"Attended college but did not complete a degree",3,"Several days",0,0,"Separated",1
+45,0,1,0,7.0,1,0,"Bachelor's degree",1,"Several days",1,1,"Married",1
+60,0,0,0,6.0,1,0,"Bachelor's degree",0,"Nearly every day",0,0,"Divorced",1
+45,0,0,0,7.0,1,0,"Attended college but did not complete a degree",0,"More than half the days",0,1,"Single, never married",0
+62,0,0,0,8.0,1,0,"Bachelor's degree",0,"Nearly every day",0,0,"Divorced",0
+25,1,0,0,6.0,0,0,"Attended college but did not complete a degree",1,"Several days",1,1,"Married",0
+62,0,0,0,8.0,1,0,"Bachelor's degree",0,"Not at all",1,1,"Married",1
+50,1,1,1,6.0,1,0,"Attended college but did not complete a degree",3,"Nearly every day",0,0,"Married",1
+53,0,0,1,7.0,1,0,"Bachelor's degree",1,"Several days",1,0,"Divorced",0
+58,1,1,0,6.0,0,0,"Attended college but did not complete a degree",2,"Several days",0,1,"Single, never married",1
+62,0,0,0,7.0,1,0,"Attended college but did not complete a degree",0,"Not at all",0,1,"Widowed",0
+63,1,1,1,8.0,1,0,"Bachelor's degree",3,"Several days",0,0,"Divorced",1
+56,1,1,1,6.0,0,0,"Attended college but did not complete a degree",3,"More than half the days",0,0,"Married",1
+58,0,0,0,6.0,0,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",0,"Several days",1,1,"Member of an unmarried couple",1
+59,0,0,0,7.0,0,0,"Bachelor's degree",0,"Not at all",0,1,"Divorced",0
+57,1,1,0,10.0,1,0,"Attended college but did not complete a degree",2,"More than half the days",0,0,"Single, never married",1
+64,0,0,0,8.0,1,0,"Attended college but did not complete a degree",0,"Not at all",0,0,"Married",1
+26,1,1,0,8.0,1,0,"Attended college but did not complete a degree",2,"Nearly every day",1,0,"Member of an unmarried couple",1
+64,0,0,0,5.0,1,0,"Attended college but did not complete a degree",0,"Several days",0,0,"Married",1
+64,1,1,0,11.0,1,0,"Bachelor's degree",2,"Several days",0,0,"Divorced",0
+52,0,1,0,6.0,1,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",1,"Several days",0,0,"Married",0
+61,1,1,0,5.0,1,0,"Bachelor's degree",2,"More than half the days",0,1,"Widowed",1
+59,0,0,0,5.0,0,0,"Attended college but did not complete a degree",0,"Several days",1,0,"Single, never married",1
+56,1,1,1,6.0,1,0,"Attended college but did not complete a degree",3,"Nearly every day",0,1,"Divorced",0
+58,1,0,0,5.0,1,0,"Bachelor's degree",1,"More than half the days",0,0,"Divorced",0
+59,1,1,0,5.0,1,0,"Attended college but did not complete a degree",2,"Nearly every day",1,0,"Divorced",1
+53,0,0,0,6.0,1,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",0,"Several days",1,1,"Married",0
+57,0,0,1,6.0,1,0,"Attended college but did not complete a degree",1,"Not at all",1,1,"Divorced",0
+57,0,0,0,6.0,1,0,"Bachelor's degree",0,"Not at all",0,0,"Single, never married",0
+61,1,1,0,6.0,1,0,"Attended college but did not complete a degree",2,"Nearly every day",1,1,"Divorced",0
+51,1,1,0,6.0,1,0,"Attended college but did not complete a degree",2,"Several days",0,0,"Married",1
+52,0,0,0,8.0,1,0,"Attended college but did not complete a degree",0,"Several days",0,1,"Married",1
+61,0,1,0,6.0,0,0,"Attended college but did not complete a degree",1,"Several days",0,1,"Divorced",0
+60,0,0,0,8.0,1,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",0,"Not at all",1,0,"Married",0
+62,1,0,0,10.0,1,0,"Attended college but did not complete a degree",1,"Several days",1,0,"Divorced",1
+61,1,0,1,5.0,1,0,"Bachelor's degree",2,"Several days",1,0,"Divorced",1
+51,0,0,0,6.0,1,0,"Bachelor's degree",0,"Several days",0,0,"Married",0
+56,1,1,0,6.0,1,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",2,"Several days",1,0,"Divorced",0
+62,0,1,0,8.0,1,0,"Bachelor's degree",1,"Not at all",1,0,"Married",1
+51,0,0,0,7.0,1,0,"Bachelor's degree",0,"Several days",0,0,"Married",1
+53,0,1,0,10.0,1,0,"Bachelor's degree",1,"Nearly every day",1,1,"Married",1
+48,1,0,0,5.0,0,0,"Attended college but did not complete a degree",1,"More than half the days",1,0,"Married",1
+45,0,0,0,7.0,1,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",0,"Not at all",0,1,"Divorced",0
+54,1,0,0,5.0,1,0,"Attended college but did not complete a degree",1,"Nearly every day",0,1,"Widowed",0
+55,1,0,0,6.5,1,0,"Attended college but did not complete a degree",1,"More than half the days",1,1,"Married",0
+50,1,1,1,6.0,1,0,"Attended college but did not complete a degree",3,"Several days",1,0,"Married",1
+56,0,0,0,10.0,1,0,"Attended college but did not complete a degree",0,"More than half the days",0,0,"Divorced",0
+46,0,1,0,5.0,1,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",1,"Several days",1,1,"Married",0
+51,1,1,0,7.0,1,0,"Did not complete high school",2,"Several days",1,0,"Married",1
+48,1,1,0,5.0,1,0,"Attended college but did not complete a degree",2,"Nearly every day",0,1,"Married",1
+47,0,0,0,6.0,0,0,"Bachelor's degree",0,"Several days",0,1,"Single, never married",1
+46,0,0,0,7.0,1,0,"Bachelor's degree",0,"More than half the days",1,1,"Married",0
+49,1,1,0,9.0,1,0,"Attended college but did not complete a degree",2,"Several days",0,0,"Married",1
+64,0,0,0,8.0,1,0,"Attended college but did not complete a degree",0,"Not at all",1,0,"Widowed",0
+64,0,0,0,8.0,1,0,"Attended college but did not complete a degree",0,"Not at all",1,0,"Married",0
+60,1,1,0,7.0,1,0,"Attended college but did not complete a degree",2,"Nearly every day",1,0,"Divorced",1
+48,1,1,0,5.0,0,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",2,"Several days",0,1,"Married",1
+62,0,1,0,7.0,1,0,"Attended college but did not complete a degree",1,"Several days",1,0,"Divorced",1
+59,0,0,0,8.0,1,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",0,"Not at all",1,1,"Single, never married",1
+49,0,0,0,7.0,1,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",0,"Not at all",0,1,"Single, never married",1
+55,0,0,0,8.0,0,0,"Attended college but did not complete a degree",0,"Not at all",1,1,"Married",0
+42,0,1,0,6.0,1,0,"Attended college but did not complete a degree",1,"More than half the days",1,0,"Married",1
+46,1,1,0,7.0,1,0,"Bachelor's degree",2,"Not at all",0,1,"Married",0
+45,1,1,1,8.0,1,0,"Attended college but did not complete a degree",3,"Not at all",0,0,"Separated",0
+61,0,0,0,7.0,1,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",0,"Not at all",1,1,"Member of an unmarried couple",1
+64,0,1,0,9.0,1,0,"Bachelor's degree",1,"Not at all",0,0,"Divorced",0
+61,0,0,0,7.0,1,0,"Attended college but did not complete a degree",0,"Not at all",0,1,"Married",0
+47,0,1,0,5.0,1,0,"Bachelor's degree",1,"More than half the days",1,1,"Married",1
+52,0,0,0,8.0,1,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",0,"More than half the days",0,1,"Single, never married",0
+63,0,0,0,9.0,1,0,"Bachelor's degree",0,"Several days",0,1,"Married",1
+53,1,0,0,6.0,1,0,"Bachelor's degree",1,"Several days",1,1,"Single, never married",0
+52,0,0,0,6.0,0,0,"Attended college but did not complete a degree",0,"Not at all",0,1,"Married",1
+56,1,1,0,9.0,1,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",2,"Not at all",0,1,"Married",1
+45,1,1,0,6.0,0,0,"Attended college but did not complete a degree",2,"Several days",1,0,"Member of an unmarried couple",1
+47,0,0,0,6.0,1,0,"Bachelor's degree",0,"More than half the days",1,0,"Married",1
+48,1,1,1,8.0,1,0,"Bachelor's degree",3,"Several days",1,1,"Widowed",1
+57,0,0,0,5.0,1,0,"Bachelor's degree",0,"Several days",0,1,"Married",1
+50,1,1,0,6.0,1,0,"Attended college but did not complete a degree",2,"More than half the days",0,0,"Single, never married",1
+46,1,1,0,5.0,1,0,"Bachelor's degree",2,"Nearly every day",0,1,"Married",0
+52,1,1,0,6.0,1,0,"Attended college but did not complete a degree",2,"Several days",0,0,"Married",1
+57,1,1,0,5.0,1,0,"Attended college but did not complete a degree",2,"Nearly every day",0,0,"Single, never married",1
+45,1,1,1,6.0,1,0,"Attended college but did not complete a degree",3,"More than half the days",1,1,"Married",0
+37,1,1,1,5.0,1,0,"Did not complete high school",3,"Several days",0,0,"Single, never married",1
+62,1,1,0,10.0,1,0,"Attended college but did not complete a degree",2,"Not at all",1,0,"Married",1
+57,0,1,0,6.0,1,0,"Attended college but did not complete a degree",1,"Not at all",1,0,"Divorced",0
+53,0,0,0,7.0,1,0,"Bachelor's degree",0,"Not at all",1,1,"Married",1
+43,0,1,0,9.0,0,0,"Bachelor's degree",1,"Not at all",1,1,"Widowed",0
+22,0,1,0,7.0,0,0,"Bachelor's degree",1,"Several days",0,1,"Married",0
+22,0,1,0,7.5,1,0,"Attended college but did not complete a degree",1,"Nearly every day",1,0,"Single, never married",0
+56,1,1,0,7.0,0,0,"Attended college but did not complete a degree",2,"Nearly every day",1,0,"Divorced",0
+30,1,1,0,5.0,1,0,"High school diploma or GED",2,"Several days",0,1,"Married",1
+41,1,0,0,8.0,0,0,"Did not complete high school",1,"Not at all",0,1,"Single, never married",1
+21,1,1,0,5.0,0,0,"Attended college but did not complete a degree",2,"Not at all",0,0,"Single, never married",1
+42,0,1,1,7.0,0,0,"Bachelor's degree",2,"Not at all",1,1,"Married",1
+32,0,0,0,6.0,1,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",0,"Several days",1,1,"Married",1
+21,0,0,0,7.0,0,0,"Associate degree",0,"Several days",0,1,"Married",1
+18,0,0,0,10.0,1,0,"High school diploma or GED",0,"More than half the days",0,1,"Single, never married",0
+43,0,0,1,6.0,0,0,"Attended college but did not complete a degree",1,"Not at all",1,0,"Single, never married",1
+53,0,0,0,8.0,1,0,"Bachelor's degree",0,"Not at all",0,1,"Married",1
+37,0,0,0,7.0,1,0,"High school diploma or GED",0,"Not at all",1,0,"Single, never married",0
+46,1,1,0,6.0,1,0,"High school diploma or GED",2,"Several days",0,0,"Married",1
+35,0,0,0,6.0,0,0,"Bachelor's degree",0,"Several days",1,1,"Widowed",1
+21,0,0,0,8.0,0,0,"High school diploma or GED",0,"Several days",1,0,"Single, never married",0
+18,0,1,0,7.0,1,0,"High school diploma or GED",1,"More than half the days",1,0,"Single, never married",1
+33,0,0,0,10.0,0,0,"Attended college but did not complete a degree",0,"Not at all",1,1,"Separated",0
+20,0,0,0,9.0,0,0,"Attended college but did not complete a degree",0,"More than half the days",1,1,"Single, never married",0
+26,0,0,0,7.0,1,0,"High school diploma or GED",0,"Not at all",0,0,"Single, never married",1
+19,0,0,0,7.0,0,0,"Attended college but did not complete a degree",0,"Several days",1,0,"Single, never married",0
+24,1,1,0,7.0,0,0,"High school diploma or GED",2,"Several days",0,1,"Single, never married",1
+40,0,1,0,8.0,1,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",1,"Not at all",1,1,"Single, never married",1
+24,0,1,0,6.0,1,0,"Associate degree",1,"Several days",0,1,"Single, never married",1
+20,1,1,1,7.0,0,0,"Attended college but did not complete a degree",3,"Several days",1,1,"Member of an unmarried couple",1
+35,0,0,1,8.0,0,0,"Bachelor's degree",1,"Not at all",1,1,"Single, never married",0
+18,1,1,0,5.0,1,0,"High school diploma or GED",2,"Nearly every day",0,0,"Single, never married",1
+59,1,1,1,6.0,1,0,"Bachelor's degree",3,"Several days",1,0,"Married",1
+18,0,0,0,7.0,1,0,"High school diploma or GED",0,"Not at all",0,0,"Single, never married",1
+26,0,0,0,8.0,0,0,"High school diploma or GED",0,"Not at all",1,1,"Single, never married",0
+30,1,0,0,6.0,0,0,"Bachelor's degree",1,"More than half the days",0,1,"Single, never married",0
+24,0,0,0,6.0,1,0,"High school diploma or GED",0,"More than half the days",0,0,"Married",1
+24,0,0,0,6.0,0,1,"Associate degree",0,"Several days",1,1,"Member of an unmarried couple",1
+25,1,1,1,8.0,0,0,"Did not complete high school",3,"Nearly every day",1,1,"Single, never married",1
+21,0,1,1,6.0,0,0,"High school diploma or GED",2,"Several days",0,1,"Single, never married",1
+21,0,0,0,11.0,0,0,"Associate degree",0,"Several days",0,1,"Separated",1
+33,0,0,0,5.0,1,0,"High school diploma or GED",0,"Not at all",0,1,"Single, never married",0
+47,1,1,0,7.0,0,0,"Attended college but did not complete a degree",2,"More than half the days",1,0,"Divorced",1
+30,1,1,0,8.0,1,0,"Bachelor's degree",2,"Nearly every day",1,1,"Married",1
+36,0,1,0,7.0,1,0,"Did not complete high school",1,"Several days",0,0,"Divorced",1
+37,0,0,0,7.0,1,0,"Bachelor's degree",0,"Not at all",1,1,"Married",1
+25,1,1,1,8.0,1,0,"High school diploma or GED",3,"Not at all",1,1,"Member of an unmarried couple",0
+40,1,1,0,7.0,1,0,"Did not complete high school",2,"More than half the days",0,1,"Married",0
+41,0,1,0,7.0,0,0,"Bachelor's degree",1,"Several days",0,1,"Single, never married",0
+45,1,1,0,6.0,1,0,"Associate degree",2,"More than half the days",0,1,"Separated",1
+27,1,1,0,10.0,1,0,"Did not complete high school",2,"Nearly every day",1,0,"Single, never married",1
+36,0,0,0,8.0,1,0,"Bachelor's degree",0,"Not at all",1,1,"Married",0
+42,1,1,0,5.0,1,0,"Did not complete high school",2,"Several days",0,1,"Married",1
+58,1,1,0,5.0,1,0,"Attended college but did not complete a degree",2,"Nearly every day",1,1,"Married",1
+45,1,1,0,5.0,1,0,"Associate degree",2,"Several days",1,1,"Divorced",1
+50,1,1,1,7.0,1,0,"Attended college but did not complete a degree",3,"Several days",0,1,"Separated",0
+25,0,0,0,7.0,1,0,"Associate degree",0,"Several days",1,1,"Single, never married",0
+51,1,1,1,11.0,1,0,"Bachelor's degree",3,"Nearly every day",0,0,"Member of an unmarried couple",1
+62,0,0,0,8.0,1,0,"Associate degree",0,"Several days",0,1,"Widowed",1
+54,1,1,1,6.0,1,0,"Did not complete high school",3,"Nearly every day",0,0,"Married",1
+47,0,0,0,6.0,1,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",0,"Several days",0,1,"Married",1
+32,1,1,1,10.0,1,0,"Bachelor's degree",3,"More than half the days",0,0,"Single, never married",0
+52,1,1,1,6.0,1,0,"High school diploma or GED",3,"Several days",0,0,"Divorced",1
+59,1,1,0,8.0,1,0,"Attended college but did not complete a degree",2,"More than half the days",0,1,"Married",1
+53,0,0,0,9.0,0,0,"High school diploma or GED",0,"Several days",0,1,"Divorced",1
+35,0,1,0,7.0,0,0,"High school diploma or GED",1,"Not at all",1,1,"Separated",0
+28,1,0,1,8.0,1,0,"Did not complete high school",2,"Nearly every day",1,1,"Married",1
+61,0,0,0,6.0,1,0,"High school diploma or GED",0,"More than half the days",1,0,"Member of an unmarried couple",1
+62,0,0,0,6.0,0,0,"Associate degree",0,"Several days",0,0,"Married",1
+41,1,1,1,5.0,1,0,"Did not complete high school",3,"More than half the days",1,0,"Divorced",1
+54,0,1,1,6.0,1,0,"High school diploma or GED",2,"Several days",1,0,"Married",0
+57,1,1,0,10.0,1,0,"High school diploma or GED",2,"Several days",1,0,"Married",1
+30,0,1,0,6.0,1,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",1,"More than half the days",0,1,"Married",0
+59,1,1,0,6.0,1,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",2,"Several days",1,0,"Member of an unmarried couple",1
+33,0,1,0,5.0,1,0,"Did not complete high school",1,"More than half the days",0,0,"Married",1
+63,0,1,1,5.0,0,0,"Associate degree",2,"Nearly every day",0,0,"Widowed",1
+55,0,0,0,7.0,0,0,"Bachelor's degree",0,"Several days",1,1,"Married",0
+48,0,0,0,6.0,0,0,"Attended college but did not complete a degree",0,"Several days",1,1,"Member of an unmarried couple",1
+28,1,1,1,6.0,0,0,"High school diploma or GED",3,"Nearly every day",0,1,"Single, never married",1
+42,1,0,0,8.0,0,0,"Bachelor's degree",1,"Several days",0,1,"Married",1
+48,0,0,0,6.0,1,0,"High school diploma or GED",0,"Nearly every day",1,1,"Married",0
+35,0,0,0,8.0,0,0,"Bachelor's degree",0,"Not at all",0,1,"Married",1
+52,1,0,0,9.0,1,0,"Associate degree",1,"Nearly every day",0,1,"Married",1
+33,1,1,0,6.0,0,0,"Attended college but did not complete a degree",2,"Nearly every day",1,1,"Member of an unmarried couple",1
+47,0,0,0,7.0,0,0,"Bachelor's degree",0,"Several days",1,1,"Married",0
+57,1,1,0,6.0,1,0,"Attended college but did not complete a degree",2,"Several days",1,1,"Single, never married",0
+26,0,0,0,7.0,0,0,"Attended college but did not complete a degree",0,"Several days",1,1,"Single, never married",0
+47,0,0,0,9.0,1,0,"High school diploma or GED",0,"Not at all",0,1,"Married",0
+40,0,0,0,8.0,0,0,"Bachelor's degree",0,"Not at all",1,1,"Married",1
+37,0,0,0,8.0,0,0,"Associate degree",0,"Not at all",1,1,"Single, never married",0
+34,0,0,1,8.0,0,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",1,"More than half the days",0,1,"Married",1
+55,1,1,0,8.0,1,0,"Did not complete high school",2,"Not at all",1,0,"Divorced",0
+29,1,1,0,8.0,0,0,"Attended college but did not complete a degree",2,"Several days",1,1,"Single, never married",0
+62,0,0,0,6.0,0,0,"Attended college but did not complete a degree",0,"Several days",0,0,"Married",1
+40,1,1,0,6.0,0,0,"Bachelor's degree",2,"More than half the days",1,1,"Married",1
+52,1,1,0,8.0,1,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",2,"Several days",1,1,"Married",1
+61,0,1,0,7.0,0,0,"Attended college but did not complete a degree",1,"Not at all",0,1,"Married",0
+61,1,1,0,6.0,1,0,"Bachelor's degree",2,"Several days",0,0,"Single, never married",1
+51,0,0,0,6.0,1,0,"Attended college but did not complete a degree",0,"Not at all",0,1,"Single, never married",0
+46,0,1,0,6.0,0,0,"Attended college but did not complete a degree",1,"Several days",0,0,"Divorced",0
+51,0,0,0,6.0,0,0,"Attended college but did not complete a degree",0,"Not at all",0,0,"Married",1
+60,0,0,0,7.0,1,0,"Associate degree",0,"Not at all",1,1,"Divorced",0
+25,0,0,0,9.0,0,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",0,"Nearly every day",1,0,"Single, never married",0
+53,0,0,0,8.0,0,0,"Attended college but did not complete a degree",0,"Not at all",0,0,"Married",1
+42,0,0,0,9.0,0,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",0,"Not at all",0,1,"Married",0
+52,0,0,0,8.0,1,0,"Attended college but did not complete a degree",0,"Not at all",1,0,"Married",0
+41,1,1,0,8.0,0,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",2,"Several days",1,1,"Married",1
+35,1,1,1,7.0,0,0,"Did not complete high school",3,"Nearly every day",0,0,"Single, never married",1
+31,1,1,1,8.0,1,0,"Did not complete high school",3,"More than half the days",1,0,"Single, never married",1
+58,0,1,0,7.0,1,0,"Attended college but did not complete a degree",1,"Several days",1,1,"Divorced",0
+39,1,1,1,5.0,1,0,"Did not complete high school",3,"Several days",0,0,"Married",1
+46,1,1,0,6.0,1,0,"Attended college but did not complete a degree",2,"Not at all",0,1,"Divorced",1
+41,0,0,0,6.5,0,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",0,"More than half the days",1,1,"Married",1
+40,0,0,0,6.0,0,0,"Attended college but did not complete a degree",0,"Several days",1,1,"Married",1
+49,0,0,0,8.0,1,0,"Attended college but did not complete a degree",0,"Not at all",1,0,"Married",1
+53,1,1,0,10.0,1,0,"Attended college but did not complete a degree",2,"Nearly every day",0,0,"Married",1
+25,0,0,0,5.0,0,0,"Bachelor's degree",0,"Not at all",1,1,"Married",1
+62,0,0,0,5.0,1,0,"Attended college but did not complete a degree",0,"Not at all",0,1,"Married",0
+41,1,1,0,9.0,0,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",2,"Several days",1,1,"Married",0
+49,1,1,1,8.0,1,0,"Did not complete high school",3,"Several days",1,0,"Divorced",1
+52,1,1,0,5.0,1,0,"Did not complete high school",2,"Nearly every day",1,0,"Married",0
+50,1,1,0,5.0,1,0,"Did not complete high school",2,"Nearly every day",1,1,"Married",1
+54,0,1,0,9.0,1,0,"Attended college but did not complete a degree",1,"Several days",0,0,"Divorced",1
+56,1,1,0,5.0,1,0,"Attended college but did not complete a degree",2,"More than half the days",1,0,"Married",1
+51,0,0,0,9.0,1,0,"Bachelor's degree",0,"Several days",0,1,"Married",1
+32,1,1,0,5.0,1,0,"Attended college but did not complete a degree",2,"Several days",0,0,"Divorced",1
+46,0,1,0,9.0,0,0,"Attended college but did not complete a degree",1,"Not at all",1,0,"Member of an unmarried couple",1
+32,1,1,0,6.0,1,0,"Attended college but did not complete a degree",2,"Nearly every day",0,1,"Married",1
+43,1,1,0,6.0,1,0,"Attended college but did not complete a degree",2,"More than half the days",1,1,"Married",1
+44,1,1,0,6.0,1,0,"Bachelor's degree",2,"Several days",0,1,"Married",0
+43,1,1,0,8.0,1,0,"Attended college but did not complete a degree",2,"Several days",0,0,"Divorced",1
+46,1,1,0,6.0,1,0,"Attended college but did not complete a degree",2,"Several days",0,0,"Member of an unmarried couple",1
+30,1,1,1,5.0,1,0,"Attended college but did not complete a degree",3,"More than half the days",1,0,"Married",1
+26,1,1,0,8.0,1,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",2,"More than half the days",0,1,"Single, never married",1
+44,1,1,0,5.0,1,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",2,"Nearly every day",1,1,"Single, never married",1
+53,1,1,0,5.0,1,0,"High school diploma or GED",2,"Nearly every day",0,0,"Married",1
+42,0,0,0,7.0,1,0,"Associate degree",0,"Not at all",1,1,"Divorced",1
+53,0,0,0,6.0,1,0,"Associate degree",0,"Not at all",1,1,"Married",0
+52,1,0,0,6.0,1,0,"High school diploma or GED",1,"More than half the days",1,0,"Married",1
+40,1,1,1,5.0,1,0,"Attended college but did not complete a degree",3,"Nearly every day",1,0,"Married",1
+63,0,0,0,6.0,1,0,"Did not complete high school",0,"Not at all",0,0,"Widowed",1
+43,0,0,0,6.0,1,0,"Bachelor's degree",0,"Several days",1,1,"Married",1
+29,0,1,0,7.0,1,0,"Bachelor's degree",1,"Not at all",1,1,"Married",1
+25,0,0,0,8.0,1,0,"Attended college but did not complete a degree",0,"More than half the days",0,0,"Married",0
+53,1,0,1,8.0,1,0,"High school diploma or GED",2,"Not at all",0,0,"Divorced",1
+55,1,1,0,8.0,1,0,"Bachelor's degree",2,"Several days",0,1,"Divorced",0
+33,0,0,0,5.0,1,0,"Attended college but did not complete a degree",0,"Several days",1,1,"Separated",0
+64,1,0,0,6.0,1,0,"Attended college but did not complete a degree",1,"Several days",1,0,"Divorced",1
+32,1,1,0,8.0,1,0,"Bachelor's degree",2,"Several days",1,0,"Married",1
+55,1,1,0,6.0,1,0,"Attended college but did not complete a degree",2,"Several days",1,1,"Divorced",1
+32,0,1,1,10.0,0,0,"High school diploma or GED",2,"Several days",1,0,"Single, never married",1
+57,1,1,0,5.0,1,0,"High school diploma or GED",2,"More than half the days",0,0,"Married",1
+42,0,0,0,6.0,1,0,"Bachelor's degree",0,"Not at all",0,1,"Married",1
+64,0,0,0,8.0,1,0,"High school diploma or GED",0,"Not at all",1,0,"Married",1
+34,0,0,0,7.0,1,0,"Attended college but did not complete a degree",0,"Several days",0,1,"Married",0
+32,1,1,0,6.0,1,0,"High school diploma or GED",2,"Several days",1,1,"Separated",1
+31,0,0,0,9.0,1,0,"Bachelor's degree",0,"Not at all",1,0,"Married",0
+30,1,1,0,5.0,1,0,"Attended college but did not complete a degree",2,"Nearly every day",0,0,"Member of an unmarried couple",1
+28,1,1,0,7.0,1,0,"High school diploma or GED",2,"Several days",1,1,"Member of an unmarried couple",1
+42,1,1,1,5.0,0,0,"Attended college but did not complete a degree",3,"Nearly every day",1,0,"Married",1
+29,0,1,0,8.0,0,0,"Bachelor's degree",1,"Not at all",0,1,"Married",0
+40,1,1,0,7.0,1,0,"Associate degree",2,"Several days",0,0,"Divorced",1
+49,0,1,1,7.0,1,0,"Associate degree",2,"Several days",1,1,"Married",1
+44,1,1,0,7.0,1,0,"Attended college but did not complete a degree",2,"Not at all",1,0,"Member of an unmarried couple",1
+39,0,0,0,7.0,1,0,"High school diploma or GED",0,"Not at all",1,0,"Divorced",1
+30,0,0,0,7.0,1,0,"High school diploma or GED",0,"Nearly every day",0,0,"Single, never married",0
+28,0,0,0,5.0,0,0,"High school diploma or GED",0,"Several days",1,0,"Divorced",1
+38,1,1,1,5.0,1,0,"Attended college but did not complete a degree",3,"Several days",1,1,"Member of an unmarried couple",1
+37,0,0,1,8.0,0,0,"High school diploma or GED",1,"Not at all",0,1,"Married",0
+47,1,1,0,6.0,1,0,"High school diploma or GED",2,"Not at all",1,0,"Divorced",1
+60,0,0,0,8.0,1,0,"Associate degree",0,"Several days",1,1,"Single, never married",1
+62,0,0,0,9.0,1,0,"Associate degree",0,"Not at all",1,1,"Married",1
+53,0,1,1,8.0,1,0,"Associate degree",2,"Several days",1,1,"Married",1
+49,0,0,0,5.0,1,0,"High school diploma or GED",0,"Several days",0,0,"Married",1
+53,1,1,0,8.0,1,0,"Attended college but did not complete a degree",2,"Several days",0,0,"Married",1
+32,0,1,0,6.0,1,0,"Attended college but did not complete a degree",1,"Several days",0,1,"Married",1
+50,0,1,0,5.0,1,0,"High school diploma or GED",1,"Nearly every day",1,0,"Member of an unmarried couple",1
+46,0,1,0,7.0,0,0,"Bachelor's degree",1,"Not at all",0,1,"Single, never married",1
+48,1,1,0,6.0,1,0,"Bachelor's degree",2,"Several days",1,1,"Married",1
+48,1,1,0,6.0,0,0,"High school diploma or GED",2,"Not at all",0,1,"Married",1
+60,0,0,0,5.0,0,0,"Attended college but did not complete a degree",0,"Not at all",1,1,"Single, never married",0
+46,0,0,0,10.0,1,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",0,"Not at all",1,0,"Single, never married",1
+62,1,0,0,7.0,0,0,"High school diploma or GED",1,"Several days",0,1,"Married",0
+55,1,1,0,6.0,1,0,"High school diploma or GED",2,"Not at all",0,0,"Single, never married",1
+21,0,0,0,8.0,0,0,"Associate degree",0,"Not at all",0,0,"Single, never married",0
+31,1,1,0,5.0,0,0,"High school diploma or GED",2,"More than half the days",0,1,"Single, never married",1
+51,1,1,1,6.0,1,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",3,"More than half the days",0,0,"Divorced",1
+31,1,1,0,5.0,1,0,"Did not complete high school",2,"More than half the days",1,0,"Married",1
+48,0,0,0,8.0,1,0,"Attended college but did not complete a degree",0,"Several days",1,0,"Married",0
+53,0,0,0,8.0,1,0,"Bachelor's degree",0,"Not at all",1,1,"Married",1
+35,0,1,0,8.0,1,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",1,"Not at all",0,0,"Married",0
+33,0,0,0,8.0,0,0,"Bachelor's degree",0,"Several days",1,1,"Married",0
+59,0,0,0,6.0,1,0,"Associate degree",0,"Several days",1,0,"Divorced",1
+18,0,1,0,5.0,1,0,"Attended college but did not complete a degree",1,"Nearly every day",1,0,"Single, never married",1
+31,0,0,0,10.0,1,0,"High school diploma or GED",0,"Several days",0,0,"Single, never married",1
+39,1,1,1,6.0,1,0,"High school diploma or GED",3,"Not at all",1,0,"Member of an unmarried couple",0
+39,0,0,0,8.0,0,0,"High school diploma or GED",0,"Not at all",1,1,"Divorced",0
+55,1,1,1,8.0,1,0,"Attended college but did not complete a degree",3,"Not at all",1,0,"Married",0
+19,0,0,0,6.0,1,0,"High school diploma or GED",0,"Several days",0,0,"Single, never married",0
+52,0,1,0,6.0,1,0,"Attended college but did not complete a degree",1,"Nearly every day",0,0,"Divorced",1
+50,0,0,0,7.0,1,0,"Associate degree",0,"Several days",0,1,"Married",1
+47,1,1,0,5.0,1,0,"High school diploma or GED",2,"Several days",1,1,"Married",1
+37,1,1,0,5.0,1,0,"High school diploma or GED",2,"Nearly every day",0,0,"Single, never married",1
+22,1,1,1,9.0,1,0,"High school diploma or GED",3,"Nearly every day",0,1,"Member of an unmarried couple",1
+59,1,0,0,7.0,1,0,"Bachelor's degree",1,"Several days",0,0,"Single, never married",1
+52,1,1,0,5.0,1,0,"Associate degree",2,"Nearly every day",0,1,"Divorced",0
+19,0,1,0,7.0,1,0,"High school diploma or GED",1,"More than half the days",1,0,"Member of an unmarried couple",1
+58,1,1,1,7.0,1,0,"Bachelor's degree",3,"More than half the days",1,0,"Divorced",1
+61,1,1,0,6.0,1,0,"Associate degree",2,"Several days",0,1,"Single, never married",1
+61,0,0,0,10.0,1,0,"High school diploma or GED",0,"More than half the days",0,1,"Member of an unmarried couple",1
+38,1,1,0,7.0,1,0,"Attended college but did not complete a degree",2,"Several days",1,1,"Married",0
+35,1,1,1,5.0,1,0,"High school diploma or GED",3,"Nearly every day",1,0,"Married",1
+62,0,0,0,6.0,1,0,"High school diploma or GED",0,"Several days",1,0,"Divorced",1
+31,1,1,0,10.0,1,0,"High school diploma or GED",2,"Not at all",0,0,"Member of an unmarried couple",1
+48,1,0,0,6.0,0,0,"Bachelor's degree",1,"Several days",0,0,"Single, never married",0
+37,1,1,1,8.0,1,0,"High school diploma or GED",3,"Nearly every day",0,0,"Single, never married",0
+54,0,0,0,10.0,1,0,"Attended college but did not complete a degree",0,"Several days",0,0,"Married",1
+19,0,0,1,7.0,1,0,"High school diploma or GED",1,"Not at all",0,0,"Single, never married",1
+53,1,1,0,7.0,1,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",2,"More than half the days",1,1,"Separated",0
+28,0,0,0,8.0,0,0,"Associate degree",0,"More than half the days",1,1,"Single, never married",1
+42,0,0,1,7.0,1,0,"Attended college but did not complete a degree",1,"Not at all",1,1,"Married",0
+60,0,0,0,6.0,1,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",0,"Nearly every day",0,1,"Widowed",0
+30,0,0,0,8.0,0,0,"High school diploma or GED",0,"Not at all",1,0,"Single, never married",0
+32,1,0,1,7.0,1,0,"Bachelor's degree",2,"Nearly every day",1,0,"Married",1
+20,1,1,0,6.0,0,0,"High school diploma or GED",2,"More than half the days",0,0,"Single, never married",1
+38,1,1,1,6.0,0,0,"Associate degree",3,"Several days",0,1,"Single, never married",1
+34,0,1,1,8.0,1,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",2,"Several days",1,1,"Married",1
+56,0,1,0,6.0,1,0,"High school diploma or GED",1,"Not at all",0,1,"Married",1
+35,0,0,0,8.0,0,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",0,"Not at all",1,1,"Married",1
+56,1,1,1,4.0,1,0,"Attended college but did not complete a degree",3,"Nearly every day",1,0,"Divorced",1
+40,1,1,0,7.0,1,0,"Bachelor's degree",2,"Several days",0,1,"Married",0
+60,0,1,0,9.0,1,0,"Associate degree",1,"Not at all",0,0,"Married",0
+52,0,0,0,8.0,0,0,"High school diploma or GED",0,"Several days",1,0,"Single, never married",1
+30,0,0,0,9.0,0,0,"Bachelor's degree",0,"Not at all",1,0,"Single, never married",0
+35,0,0,0,8.0,1,0,"Bachelor's degree",0,"Not at all",1,1,"Married",0
+55,0,0,0,5.0,1,0,"Bachelor's degree",0,"Nearly every day",0,0,"Widowed",1
+47,0,0,0,5.0,0,0,"High school diploma or GED",0,"Not at all",1,1,"Separated",0
+62,1,1,0,5.0,1,0,"High school diploma or GED",2,"Several days",0,0,"Divorced",1
+47,0,0,0,8.0,1,0,"Attended college but did not complete a degree",0,"Not at all",1,1,"Divorced",1
+35,0,1,0,8.0,1,0,"High school diploma or GED",1,"More than half the days",1,1,"Single, never married",1
+38,0,0,0,6.0,0,0,"High school diploma or GED",0,"More than half the days",1,1,"Married",0
+62,0,0,0,8.0,1,0,"Bachelor's degree",0,"Not at all",1,0,"Single, never married",0
+43,1,1,0,5.0,1,0,"Attended college but did not complete a degree",2,"More than half the days",0,0,"Member of an unmarried couple",1
+35,0,0,0,8.0,0,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",0,"Not at all",1,1,"Married",0
+38,1,1,1,5.0,1,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",3,"More than half the days",0,1,"Married",1
+34,0,0,0,5.0,0,0,"Associate degree",0,"More than half the days",0,1,"Single, never married",1
+59,0,0,0,6.0,1,0,"Attended college but did not complete a degree",0,"Several days",1,1,"Single, never married",1
+36,0,0,0,8.0,0,0,"Bachelor's degree",0,"Not at all",1,1,"Married",0
+31,0,0,0,6.0,1,0,"Did not complete high school",0,"Several days",1,0,"Married",1
+55,1,1,0,10.0,0,0,"High school diploma or GED",2,"More than half the days",0,0,"Married",0
+52,1,1,0,6.0,1,0,"Bachelor's degree",2,"Several days",0,1,"Widowed",0
+47,1,1,0,8.0,1,0,"Attended college but did not complete a degree",2,"Several days",1,0,"Married",1
+29,1,1,0,5.0,0,0,"Attended college but did not complete a degree",2,"Nearly every day",0,0,"Single, never married",1
+46,1,1,1,6.0,0,0,"High school diploma or GED",3,"Several days",0,0,"Divorced",1
+62,1,1,0,6.0,1,0,"Attended college but did not complete a degree",2,"More than half the days",1,0,"Divorced",1
+30,1,1,1,6.0,1,0,"Attended college but did not complete a degree",3,"Nearly every day",1,0,"Divorced",1
+32,1,1,0,5.0,1,0,"Bachelor's degree",2,"Nearly every day",1,1,"Married",1
+41,0,0,0,7.0,0,0,"High school diploma or GED",0,"Not at all",0,0,"Single, never married",0
+56,1,1,0,5.0,1,0,"High school diploma or GED",2,"Several days",0,0,"Married",1
+39,1,1,0,6.0,1,0,"Did not complete high school",2,"Several days",0,0,"Member of an unmarried couple",1
+50,1,1,0,8.0,1,0,"High school diploma or GED",2,"Several days",0,0,"Married",1
+53,0,0,0,6.0,0,0,"Attended college but did not complete a degree",0,"Several days",1,1,"Divorced",0
+35,0,0,0,10.0,1,0,"Attended college but did not complete a degree",0,"Nearly every day",1,0,"Single, never married",1
+64,0,0,0,6.0,1,0,"Attended college but did not complete a degree",0,"Nearly every day",1,1,"Married",0
+54,1,0,1,7.0,1,0,"Attended college but did not complete a degree",2,"Not at all",1,0,"Widowed",1
+35,0,1,0,8.0,0,0,"Bachelor's degree",1,"Not at all",1,1,"Married",0
+40,0,1,1,5.0,0,0,"High school diploma or GED",2,"Not at all",1,1,"Member of an unmarried couple",0
+28,0,1,0,8.0,1,0,"High school diploma or GED",1,"Not at all",1,0,"Married",1
+49,0,0,0,6.0,1,0,"Bachelor's degree",0,"Nearly every day",0,0,"Married",1
+35,0,1,0,8.0,1,0,"Associate degree",1,"Not at all",1,1,"Married",0
+31,1,1,0,8.0,1,0,"High school diploma or GED",2,"More than half the days",1,0,"Married",0
+46,1,1,0,6.0,1,0,"High school diploma or GED",2,"Several days",0,1,"Member of an unmarried couple",1
+48,0,0,0,7.0,0,0,"Attended college but did not complete a degree",0,"Several days",1,0,"Married",1
+40,0,1,1,6.0,1,0,"Attended college but did not complete a degree",2,"Several days",0,1,"Married",0
+46,0,0,0,6.0,1,0,"High school diploma or GED",0,"Several days",1,0,"Divorced",1
+62,0,0,0,8.0,0,0,"High school diploma or GED",0,"Not at all",1,1,"Single, never married",1
+61,1,0,0,8.0,1,0,"Attended college but did not complete a degree",1,"Several days",1,1,"Divorced",1
+55,0,0,0,6.0,1,0,"High school diploma or GED",0,"Not at all",0,0,"Married",1
+62,1,1,0,7.0,1,0,"High school diploma or GED",2,"Several days",0,0,"Divorced",1
+33,0,1,1,7.0,1,0,"Attended college but did not complete a degree",2,"Not at all",1,1,"Married",1
+58,0,0,0,7.0,1,0,"High school diploma or GED",0,"Not at all",1,0,"Single, never married",0
+43,1,1,0,6.0,0,0,"High school diploma or GED",2,"Not at all",1,0,"Separated",0
+34,0,0,0,7.0,1,0,"Bachelor's degree",0,"Not at all",1,1,"Single, never married",0
+28,0,0,0,8.0,0,0,"High school diploma or GED",0,"Not at all",1,1,"Single, never married",0
+49,1,1,0,6.0,1,0,"Did not complete high school",2,"Not at all",1,0,"Divorced",1
+45,0,0,0,7.0,0,0,"Associate degree",0,"Not at all",1,0,"Single, never married",0
+58,0,0,0,7.0,1,0,"Bachelor's degree",0,"Not at all",1,0,"Divorced",1
+45,1,1,1,7.0,1,0,"High school diploma or GED",3,"Several days",0,1,"Married",0
+35,1,1,1,5.0,0,0,"High school diploma or GED",3,"Nearly every day",0,1,"Married",1
+61,0,0,0,8.0,1,0,"Bachelor's degree",0,"Several days",0,1,"Married",0
+58,0,0,0,8.0,1,0,"Bachelor's degree",0,"Not at all",0,0,"Divorced",0
+29,0,1,0,5.0,1,0,"High school diploma or GED",1,"Not at all",0,1,"Member of an unmarried couple",0
+42,0,0,0,6.0,1,0,"Bachelor's degree",0,"Several days",0,1,"Single, never married",0
+58,1,1,0,6.0,1,0,"Bachelor's degree",2,"Several days",0,0,"Divorced",1
+35,1,1,1,6.0,1,0,"Associate degree",3,"More than half the days",1,1,"Divorced",1
+43,1,1,0,10.0,1,0,"High school diploma or GED",2,"More than half the days",0,0,"Divorced",1
+26,0,0,0,10.0,1,0,"Attended college but did not complete a degree",0,"Not at all",1,0,"Single, never married",0
+45,1,1,1,7.0,0,0,"Bachelor's degree",3,"Several days",0,0,"Divorced",1
+37,1,1,0,6.0,1,0,"Attended college but did not complete a degree",2,"More than half the days",1,1,"Member of an unmarried couple",1
+35,0,1,0,5.0,1,0,"Attended college but did not complete a degree",1,"Nearly every day",1,0,"Married",1
+45,1,1,0,6.0,1,0,"Associate degree",2,"Nearly every day",1,1,"Single, never married",1
+50,0,1,0,7.0,1,0,"High school diploma or GED",1,"Not at all",0,0,"Single, never married",1
+54,0,0,0,10.0,0,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",0,"Several days",0,1,"Single, never married",0
+60,1,1,0,8.0,1,0,"High school diploma or GED",2,"Several days",1,0,"Single, never married",1
+25,0,1,0,8.0,0,0,"Associate degree",1,"Nearly every day",1,1,"Single, never married",1
+53,0,0,0,5.0,0,0,"Bachelor's degree",0,"Nearly every day",0,0,"Single, never married",1
+31,0,0,0,7.0,0,0,"Did not complete high school",0,"Not at all",1,1,"Single, never married",0
+37,0,1,0,6.0,0,0,"High school diploma or GED",1,"Nearly every day",1,1,"Separated",1
+41,1,1,0,7.0,0,0,"Attended college but did not complete a degree",2,"Nearly every day",1,0,"Widowed",1
+25,0,0,0,8.0,0,0,"High school diploma or GED",0,"Not at all",1,1,"Single, never married",0
+60,0,0,0,7.0,0,0,"High school diploma or GED",0,"Not at all",1,1,"Divorced",1
+44,0,0,0,6.5,0,0,"Attended college but did not complete a degree",0,"Several days",1,1,"Married",1
+53,0,1,0,7.0,0,0,"Bachelor's degree",1,"More than half the days",0,1,"Married",0
+27,1,1,1,5.0,0,0,"High school diploma or GED",3,"Nearly every day",1,0,"Single, never married",1
+55,0,0,0,5.0,0,0,"Bachelor's degree",0,"Nearly every day",0,1,"Married",0
+33,0,1,0,7.0,0,0,"Bachelor's degree",1,"Several days",0,1,"Married",1
+33,0,0,0,8.0,0,0,"High school diploma or GED",0,"More than half the days",0,0,"Single, never married",0
+40,1,1,0,5.0,0,0,"Attended college but did not complete a degree",2,"Nearly every day",1,0,"Single, never married",1
+64,0,0,0,7.0,1,0,"Attended college but did not complete a degree",0,"Several days",0,0,"Married",1
+54,0,1,0,6.0,1,0,"High school diploma or GED",1,"Several days",0,1,"Married",1
+64,0,0,0,7.0,1,0,"Attended college but did not complete a degree",0,"Not at all",0,0,"Married",1
+62,0,0,0,7.0,1,0,"Attended college but did not complete a degree",0,"Several days",1,1,"Married",0
+63,0,1,0,6.0,1,0,"High school diploma or GED",1,"Several days",1,0,"Divorced",1
+64,0,0,0,6.0,0,0,"Associate degree",0,"Not at all",0,1,"Divorced",1
+64,1,1,0,7.0,1,0,"Bachelor's degree",2,"Nearly every day",1,0,"Single, never married",1
+63,0,0,0,7.0,0,0,"Post-Bachelor's degree (e.g., Masters, Doctorate, MD, JD)",0,"Not at all",1,0,"Single, never married",1
+62,1,0,1,8.0,1,0,"Associate degree",2,"Not at all",1,1,"Married",1
+64,0,0,0,8.0,0,0,"Bachelor's degree",0,"Not at all",0,0,"Married",0
+55,1,1,0,5.0,1,0,"High school diploma or GED",2,"Nearly every day",0,0,"Single, never married",1
+59,0,0,0,8.0,1,0,"Associate degree",0,"Not at all",1,1,"Divorced",0
+61,0,0,0,7.0,1,0,"Associate degree",0,"Not at all",1,1,"Member of an unmarried couple",0
+61,0,0,0,8.0,1,0,"Bachelor's degree",0,"Not at all",1,0,"Married",1
+59,0,0,0,7.0,1,0,"Bachelor's degree",0,"More than half the days",0,1,"Divorced",1
+29,1,1,0,5.0,1,0,"High school diploma or GED",2,"Nearly every day",1,1,"Single, never married",1
+61,1,1,1,7.0,1,0,"Bachelor's degree",3,"Several days",1,0,"Married",1
+53,1,1,0,6.0,0,0,"Associate degree",2,"More than half the days",1,0,"Married",1
+36,1,1,0,5.0,1,0,"High school diploma or GED",2,"Nearly every day",1,1,"Separated",0
+42,0,0,0,7.0,0,0,"Attended college but did not complete a degree",0,"Not at all",1,0,"Single, never married",0
+45,0,1,0,6.0,1,0,"High school diploma or GED",1,"Nearly every day",0,1,"Member of an unmarried couple",1
+32,0,0,0,8.0,1,0,"High school diploma or GED",0,"Refusal",0,1,"Separated",1
+38,1,1,0,6.0,1,0,"Associate degree",2,"Several days",1,0,"Single, never married",1
+30,0,1,0,5.0,1,0,"Attended college but did not complete a degree",1,"Several days",0,1,"Single, never married",1
+46,0,0,0,8.0,0,0,"High school diploma or GED",0,"Not at all",0,1,"Single, never married",0
+58,0,0,0,7.0,1,0,"Attended college but did not complete a degree",0,"Not at all",1,1,"Divorced",0
+36,0,0,0,8.0,0,0,"Bachelor's degree",0,"Several days",1,1,"Member of an unmarried couple",0
+32,0,0,0,8.0,1,0,"Associate degree",0,"Not at all",1,0,"Married",0
+52,1,1,0,6.0,0,0,"High school diploma or GED",2,"More than half the days",0,1,"Member of an unmarried couple",1
+56,0,1,0,8.0,1,0,"High school diploma or GED",1,"Not at all",0,0,"Single, never married",1
+35,0,0,0,8.0,0,0,"Bachelor's degree",0,"Not at all",1,1,"Married",0
+35,0,0,0,8.0,0,0,"High school diploma or GED",0,"Not at all",0,1,"Single, never married",0
+29,1,1,1,7.0,1,0,"High school diploma or GED",3,"Several days",0,0,"Member of an unmarried couple",1
+27,0,1,0,6.0,1,0,"High school diploma or GED",1,"Several days",0,0,"Married",1
+62,0,0,0,8.0,0,0,"High school diploma or GED",0,"Not at all",1,0,"Married",0
+38,1,0,0,6.0,0,0,"Associate degree",1,"More than half the days",0,1,"Divorced",1
+58,0,0,0,6.0,0,0,"Did not complete high school",0,"More than half the days",0,0,"Divorced",1
